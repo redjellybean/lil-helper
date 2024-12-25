@@ -1,1036 +1,1082 @@
 Place 1,Place 2,Distance (km),Stars Place 1,Stars Place 2
-hotelF1 Paris Porte de Châtillon,Eiffel Tower,4.229553747658143,3.0,3.0
-hotelF1 Paris Porte de Châtillon,Arc de Triomphe,5.864416730500148,3.0,3.0
-hotelF1 Paris Porte de Châtillon,Yann Couvreur Rosiers,5.16502380757612,3.0,3.0
-hotelF1 Paris Porte de Châtillon,Des Gâteaux et du Pain,3.169649330071553,3.0,3.0
-hotelF1 Paris Porte de Châtillon,L'Eclair de Génie Café,4.965114260250166,3.0,3.0
-hotelF1 Paris Porte de Châtillon,Pierre Hermé,4.840719889323884,3.0,3.0
-hotelF1 Paris Porte de Châtillon,Stohrer,5.0265083549377145,3.0,3.0
-hotelF1 Paris Porte de Châtillon,Ritz Paris Le Comptoir,5.167939371677874,3.0,3.0
-Musée de l'Orangerie,hotelF1 Paris Porte de Châtillon,4.639338512147074,3.0,3.0
-Musée de l'Orangerie,Palais Garnier,1.1066472106690322,3.0,3.0
-Musée de l'Orangerie,La Meringaie Martyrs,2.1157011419671057,3.0,3.0
-Eiffel Tower,Musée de l'Orangerie,2.141520150061362,3.0,3.0
-Eiffel Tower,Arc de Triomphe,1.7127923875436086,3.0,3.0
-Eiffel Tower,Yann Couvreur Rosiers,4.79291134868062,3.0,3.0
-Eiffel Tower,Des Gâteaux et du Pain,2.419089243456286,3.0,3.0
-Eiffel Tower,L'Eclair de Génie Café,1.3746655851361738,3.0,3.0
-Eiffel Tower,Pierre Hermé,1.4734426400672211,3.0,3.0
-Eiffel Tower,Stohrer,3.8614413517755297,3.0,3.0
-Eiffel Tower,Ritz Paris Le Comptoir,2.672950680639324,3.0,3.0
-Arc de Triomphe,Musée de l'Orangerie,2.3047134238567635,3.0,3.0
-Arc de Triomphe,Yann Couvreur Rosiers,5.088307575949246,3.0,3.0
-Arc de Triomphe,Des Gâteaux et du Pain,3.437993479828189,3.0,3.0
-Arc de Triomphe,L'Eclair de Génie Café,1.2148194089589741,3.0,3.0
-Arc de Triomphe,Pierre Hermé,1.456618137993216,3.0,3.0
-Arc de Triomphe,Stohrer,4.023433650640933,3.0,3.0
-Arc de Triomphe,Ritz Paris Le Comptoir,2.4982777529231797,3.0,3.0
-Palais Garnier,hotelF1 Paris Porte de Châtillon,5.6379228974898234,3.0,3.0
-Palais Garnier,Eiffel Tower,3.0959262618739927,3.0,3.0
-Palais Garnier,Arc de Triomphe,2.686020418397782,3.0,3.0
-Palais Garnier,La Meringaie Martyrs,1.0091328360269323,3.0,3.0
-Yann Couvreur Rosiers,Musée de l'Orangerie,2.8242309193002573,3.0,3.0
-Yann Couvreur Rosiers,Palais Garnier,2.6161112686459016,3.0,3.0
-Yann Couvreur Rosiers,Des Gâteaux et du Pain,2.693131013661267,3.0,3.0
-Yann Couvreur Rosiers,L'Eclair de Génie Café,3.9478548242911713,3.0,3.0
-Yann Couvreur Rosiers,Pierre Hermé,3.706998720981742,3.0,3.0
-Yann Couvreur Rosiers,Stohrer,1.074626731605842,3.0,3.0
-Yann Couvreur Rosiers,Ritz Paris Le Comptoir,2.615855040378036,3.0,3.0
-Des Gâteaux et du Pain,Musée de l'Orangerie,1.5445028639912697,3.0,3.0
-Des Gâteaux et du Pain,Palais Garnier,2.4716648006491675,3.0,3.0
-Des Gâteaux et du Pain,L'Eclair de Génie Café,2.262745735021528,3.0,3.0
-Des Gâteaux et du Pain,Pierre Hermé,2.0528710610358694,3.0,3.0
-Des Gâteaux et du Pain,Stohrer,2.0907163062887437,3.0,3.0
-Des Gâteaux et du Pain,Ritz Paris Le Comptoir,2.0135054413345683,3.0,3.0
-L'Eclair de Génie Café,Musée de l'Orangerie,1.1256693461349885,3.0,3.0
-L'Eclair de Génie Café,Palais Garnier,1.8067743681299953,3.0,3.0
-L'Eclair de Génie Café,Pierre Hermé,0.2460021285864447,3.0,3.0
-L'Eclair de Génie Café,Stohrer,2.9064704352381807,3.0,3.0
-L'Eclair de Génie Café,Ritz Paris Le Comptoir,1.4671061127343592,3.0,3.0
-La Meringaie Martyrs,hotelF1 Paris Porte de Châtillon,6.572767131188556,3.0,3.0
-La Meringaie Martyrs,Eiffel Tower,4.0401003993654845,3.0,3.0
-La Meringaie Martyrs,Arc de Triomphe,3.3413185082728907,3.0,3.0
-La Meringaie Martyrs,Yann Couvreur Rosiers,2.8027441640496207,3.0,3.0
-La Meringaie Martyrs,Des Gâteaux et du Pain,3.406215001192,3.0,3.0
-La Meringaie Martyrs,L'Eclair de Génie Café,2.6940209143760656,3.0,3.0
-Pierre Hermé,Musée de l'Orangerie,0.8830776889685236,3.0,3.0
-Pierre Hermé,Palais Garnier,1.6389547355630008,3.0,3.0
-Pierre Hermé,La Meringaie Martyrs,2.5667284926505523,3.0,3.0
-Pierre Hermé,Stohrer,2.6706769922850344,3.0,3.0
-Pierre Hermé,Ritz Paris Le Comptoir,1.2631960190879448,3.0,3.0
-Stohrer,Musée de l'Orangerie,1.7960722755258365,3.0,3.0
-Stohrer,Palais Garnier,1.5672671365203912,3.0,3.0
-Stohrer,La Meringaie Martyrs,1.9584200410666996,3.0,3.0
-Stohrer,Ritz Paris Le Comptoir,1.5416519457791527,3.0,3.0
-Ritz Paris Le Comptoir,Musée de l'Orangerie,0.6116576351995205,3.0,3.0
-Ritz Paris Le Comptoir,Palais Garnier,0.49786662654389746,3.0,3.0
-Ritz Paris Le Comptoir,La Meringaie Martyrs,1.5054268266424586,3.0,3.0
-hotelF1 Paris Porte de Châtillon,La Belle Hortense,5.069992782596706,3.0,2.0
-hotelF1 Paris Porte de Châtillon,Galeries Lafayette Haussmann,5.86103764833329,3.0,2.0
-hotelF1 Paris Porte de Châtillon,Sainte-Chapelle,4.30086071678922,3.0,2.0
-hotelF1 Paris Porte de Châtillon,Episode,5.167512579622694,3.0,2.0
-Musée de l'Orangerie,La Belle Hortense,2.6827400031873365,3.0,2.0
-Musée de l'Orangerie,Jardin du Luxembourg,2.229565907558598,3.0,2.0
-Musée de l'Orangerie,Montmartre,2.9549361215639265,3.0,2.0
-Musée de l'Orangerie,Le Procope,1.6065509639407423,3.0,2.0
-Musée de l'Orangerie,Notre Dame,2.3927317893475557,3.0,2.0
-Musée de l'Orangerie,Bontemps La Pâtisserie,2.8738179039352425,3.0,2.0
-Musée de l'Orangerie,Boulangerie Utopie,3.467360989988806,3.0,2.0
-Musée de l'Orangerie,Fou de Pâtisserie,2.2021281515194002,3.0,2.0
-Musée de l'Orangerie,Cedric Grolet Café,0.8765056195621189,3.0,2.0
-Musée de l'Orangerie,Chapon et la Chocolaterie de l'Eglise,1.574869906947352,3.0,2.0
-Eiffel Tower,Galeries Lafayette Haussmann,3.2336210360913182,3.0,2.0
-Eiffel Tower,Sainte-Chapelle,3.673168980162979,3.0,2.0
-Eiffel Tower,Episode,4.220532370810731,3.0,2.0
-Arc de Triomphe,Jardin du Luxembourg,4.353061854411401,3.0,2.0
-Arc de Triomphe,Galeries Lafayette Haussmann,2.7059987058046784,3.0,2.0
-Arc de Triomphe,Sainte-Chapelle,4.158922711918351,3.0,2.0
-Arc de Triomphe,Episode,4.387816558955354,3.0,2.0
-Palais Garnier,La Belle Hortense,2.501519843418837,3.0,2.0
-Palais Garnier,Galeries Lafayette Haussmann,0.22430577329845233,3.0,2.0
-Palais Garnier,Le Procope,2.088029336701942,3.0,2.0
-Palais Garnier,Notre Dame,2.5277102043915955,3.0,2.0
-Palais Garnier,Bontemps La Pâtisserie,2.679044807676262,3.0,2.0
-Palais Garnier,Boulangerie Utopie,2.939582837011258,3.0,2.0
-Palais Garnier,Fou de Pâtisserie,1.9101785367540307,3.0,2.0
-Palais Garnier,Cedric Grolet Café,0.23185068349988075,3.0,2.0
-Palais Garnier,Chapon et la Chocolaterie de l'Eglise,2.3713422963485273,3.0,2.0
-Yann Couvreur Rosiers,Jardin du Luxembourg,2.0884753906615696,3.0,2.0
-Yann Couvreur Rosiers,Montmartre,3.4741998895742303,3.0,2.0
-Yann Couvreur Rosiers,Le Procope,1.6698845967978004,3.0,2.0
-Yann Couvreur Rosiers,Notre Dame,0.8453893097982423,3.0,2.0
-Yann Couvreur Rosiers,Bontemps La Pâtisserie,0.06655184761658998,3.0,2.0
-Des Gâteaux et du Pain,Jardin du Luxembourg,0.9876565928801536,3.0,2.0
-Des Gâteaux et du Pain,Montmartre,4.290227380275149,3.0,2.0
-Des Gâteaux et du Pain,Le Procope,1.0277145711424245,3.0,2.0
-Des Gâteaux et du Pain,Notre Dame,1.9150724270903228,3.0,2.0
-Des Gâteaux et du Pain,Bontemps La Pâtisserie,2.7114710202033954,3.0,2.0
-Des Gâteaux et du Pain,Boulangerie Utopie,3.6416869399944183,3.0,2.0
-L'Eclair de Génie Café,Jardin du Luxembourg,3.1484891192460247,3.0,2.0
-L'Eclair de Génie Café,Montmartre,3.374517247420647,3.0,2.0
-L'Eclair de Génie Café,Le Procope,2.658923097111028,3.0,2.0
-L'Eclair de Génie Café,Notre Dame,3.501658872059413,3.0,2.0
-L'Eclair de Génie Café,Bontemps La Pâtisserie,3.998231849903638,3.0,2.0
-L'Eclair de Génie Café,Boulangerie Utopie,4.547380347133278,3.0,2.0
-L'Eclair de Génie Café,Fou de Pâtisserie,3.3120857855258636,3.0,2.0
-La Meringaie Martyrs,La Belle Hortense,2.729245356599497,3.0,2.0
-La Meringaie Martyrs,Galeries Lafayette Haussmann,0.8225660807393066,3.0,2.0
-La Meringaie Martyrs,Sainte-Chapelle,2.644762308253293,3.0,2.0
-La Meringaie Martyrs,Episode,2.1346893754123686,3.0,2.0
-La Meringaie Martyrs,Cedric Grolet Café,1.2395033572104281,3.0,2.0
-La Meringaie Martyrs,Chapon et la Chocolaterie de l'Eglise,3.2523806586941313,3.0,2.0
-Pierre Hermé,Jardin du Luxembourg,2.919159775606251,3.0,2.0
-Pierre Hermé,Montmartre,3.287676985737869,3.0,2.0
-Pierre Hermé,Le Procope,2.4152323731807344,3.0,2.0
-Pierre Hermé,Notre Dame,3.255660097935194,3.0,2.0
-Pierre Hermé,Bontemps La Pâtisserie,3.7568218875301054,3.0,2.0
-Pierre Hermé,Boulangerie Utopie,4.321455878214092,3.0,2.0
-Pierre Hermé,Fou de Pâtisserie,3.0766785359142865,3.0,2.0
-Stohrer,Jardin du Luxembourg,1.8975575389744053,3.0,2.0
-Stohrer,Montmartre,2.761285120696511,3.0,2.0
-Stohrer,Le Procope,1.1518887515195453,3.0,2.0
-Stohrer,Notre Dame,1.0493688513223274,3.0,2.0
-Stohrer,Bontemps La Pâtisserie,1.1333461464041223,3.0,2.0
-Stohrer,Boulangerie Utopie,1.6971045737407884,3.0,2.0
-Stohrer,Fou de Pâtisserie,0.4061631423876655,3.0,2.0
-Stohrer,Cedric Grolet Café,1.528916175647685,3.0,2.0
-Ritz Paris Le Comptoir,Jardin du Luxembourg,2.515757407120957,3.0,2.0
-Ritz Paris Le Comptoir,Montmartre,2.3543725094742887,3.0,2.0
-Ritz Paris Le Comptoir,Le Procope,1.77052248637779,3.0,2.0
-Ritz Paris Le Comptoir,Notre Dame,2.366677237946606,3.0,2.0
-Ritz Paris Le Comptoir,Bontemps La Pâtisserie,2.673619935291223,3.0,2.0
-Ritz Paris Le Comptoir,Boulangerie Utopie,3.1041832264746385,3.0,2.0
-Ritz Paris Le Comptoir,Fou de Pâtisserie,1.9323914443215482,3.0,2.0
-Ritz Paris Le Comptoir,Cedric Grolet Café,0.26618851271371,3.0,2.0
-hotelF1 Paris Porte de Châtillon,Louise Café,3.799326195371786,3.0,1.0
-hotelF1 Paris Porte de Châtillon,Chez Alain Miam Miam,5.59579629709899,3.0,1.0
-hotelF1 Paris Porte de Châtillon,Hôtel des Invalides,3.792453212320969,3.0,1.0
-hotelF1 Paris Porte de Châtillon,Galerie Butte Montmartre,7.320298323842896,3.0,1.0
-hotelF1 Paris Porte de Châtillon,tucked friperie,5.747362951287786,3.0,1.0
-hotelF1 Paris Porte de Châtillon,Chinemachine,7.383604068601479,3.0,1.0
-hotelF1 Paris Porte de Châtillon,Shakespeare and Company,4.144596572085555,3.0,1.0
-hotelF1 Paris Porte de Châtillon,Palace of Versailles,14.281388878839259,3.0,1.0
-hotelF1 Paris Porte de Châtillon,Le Train Bleu,5.025943330459245,3.0,1.0
-hotelF1 Paris Porte de Châtillon,La Poule au Pot,5.081160686344288,3.0,1.0
-Musée de l'Orangerie,L'As du Fallafel,2.7681027111733334,3.0,1.0
-Musée de l'Orangerie,Dumbo,1.6933600601951238,3.0,1.0
-Musée de l'Orangerie,Le Bistro Marbeuf,1.4771843710813584,3.0,1.0
-Musée de l'Orangerie,Untucked friperie,3.5269639063427656,3.0,1.0
-Musée de l'Orangerie,Café Kitsuné Louvre,1.0538871783703756,3.0,1.0
-Musée de l'Orangerie,BO&MIE,2.028395565054756,3.0,1.0
-Musée de l'Orangerie,Plaza Athénée,1.3823721567354639,3.0,1.0
-Musée de l'Orangerie,Bistrot Paul Bert,4.338293382395476,3.0,1.0
-Eiffel Tower,Bibliothèque Nationale de France - Richelieu,3.4125962233120353,3.0,1.0
-Eiffel Tower,Louise Café,3.1668124444460477,3.0,1.0
-Eiffel Tower,Chez Alain Miam Miam,4.813266514496451,3.0,1.0
-Eiffel Tower,Hôtel des Invalides,1.3392176611300617,3.0,1.0
-Eiffel Tower,Galerie Butte Montmartre,4.526873108939121,3.0,1.0
-Eiffel Tower,tucked friperie,5.2386167864937505,3.0,1.0
-Eiffel Tower,Chinemachine,4.5914631301796565,3.0,1.0
-Eiffel Tower,Shakespeare and Company,3.8947648785634157,3.0,1.0
-Eiffel Tower,Palace of Versailles,14.063696832947924,3.0,1.0
-Eiffel Tower,Le Train Bleu,6.033224417698156,3.0,1.0
-Eiffel Tower,La Poule au Pot,4.143396143754587,3.0,1.0
-Arc de Triomphe,Bibliothèque Nationale de France - Richelieu,3.233657618187266,3.0,1.0
-Arc de Triomphe,L'As du Fallafel,5.040387853936664,3.0,1.0
-Arc de Triomphe,Dumbo,3.5243622594293393,3.0,1.0
-Arc de Triomphe,Le Bistro Marbeuf,0.9560815087363664,3.0,1.0
-Arc de Triomphe,Galerie Butte Montmartre,3.559335176680976,3.0,1.0
-Arc de Triomphe,tucked friperie,5.384763541208129,3.0,1.0
-Arc de Triomphe,Chinemachine,3.6145073630347273,3.0,1.0
-Arc de Triomphe,Shakespeare and Company,4.475058086363536,3.0,1.0
-Arc de Triomphe,Palace of Versailles,14.898915554378172,3.0,1.0
-Arc de Triomphe,Le Train Bleu,6.661935631967343,3.0,1.0
-Arc de Triomphe,La Poule au Pot,4.336325333172932,3.0,1.0
-Palais Garnier,Louise Café,2.127459224790144,3.0,1.0
-Palais Garnier,Chez Alain Miam Miam,2.320478026766987,3.0,1.0
-Palais Garnier,Hôtel des Invalides,2.188215662862839,3.0,1.0
-Palais Garnier,Galerie Butte Montmartre,1.6942461928284456,3.0,1.0
-Palais Garnier,Untucked friperie,3.2007042764828095,3.0,1.0
-Palais Garnier,Café Kitsuné Louvre,1.0038850157762016,3.0,1.0
-Palais Garnier,BO&MIE,1.8037681193590631,3.0,1.0
-Palais Garnier,Plaza Athénée,2.119243257828541,3.0,1.0
-Palais Garnier,Bistrot Paul Bert,4.0561951339736115,3.0,1.0
-Yann Couvreur Rosiers,Bibliothèque Nationale de France - Richelieu,1.9992313054805146,3.0,1.0
-Yann Couvreur Rosiers,L'As du Fallafel,0.09188775707945375,3.0,1.0
-Yann Couvreur Rosiers,Dumbo,1.949300555874563,3.0,1.0
-Yann Couvreur Rosiers,Le Bistro Marbeuf,4.301391447667114,3.0,1.0
-Yann Couvreur Rosiers,Untucked friperie,0.7336951562200081,3.0,1.0
-Yann Couvreur Rosiers,Café Kitsuné Louvre,1.8100012987260754,3.0,1.0
-Yann Couvreur Rosiers,Le Train Bleu,1.8173374732880692,3.0,1.0
-Yann Couvreur Rosiers,La Poule au Pot,0.764828748446849,3.0,1.0
-Des Gâteaux et du Pain,Bibliothèque Nationale de France - Richelieu,2.2919272959382244,3.0,1.0
-Des Gâteaux et du Pain,L'As du Fallafel,2.606533352903632,3.0,1.0
-Des Gâteaux et du Pain,Dumbo,2.6807789061218394,3.0,1.0
-Des Gâteaux et du Pain,Le Bistro Marbeuf,2.4826721636780524,3.0,1.0
-Des Gâteaux et du Pain,Untucked friperie,3.4104389629599763,3.0,1.0
-Des Gâteaux et du Pain,Café Kitsuné Louvre,1.7390054028866755,3.0,1.0
-Des Gâteaux et du Pain,Le Train Bleu,3.6470819348729386,3.0,1.0
-Des Gâteaux et du Pain,La Poule au Pot,2.2615209971671586,3.0,1.0
-L'Eclair de Génie Café,Bibliothèque Nationale de France - Richelieu,2.237971006402033,3.0,1.0
-L'Eclair de Génie Café,L'As du Fallafel,3.892951825941308,3.0,1.0
-L'Eclair de Génie Café,Dumbo,2.5983256787598905,3.0,1.0
-L'Eclair de Génie Café,Le Bistro Marbeuf,0.3657252053347415,3.0,1.0
-L'Eclair de Génie Café,Untucked friperie,4.644498278494279,3.0,1.0
-L'Eclair de Génie Café,Café Kitsuné Louvre,2.1566856924609135,3.0,1.0
-L'Eclair de Génie Café,Le Train Bleu,5.464145707431847,3.0,1.0
-L'Eclair de Génie Café,La Poule au Pot,3.2154028334700477,3.0,1.0
-La Meringaie Martyrs,Louise Café,2.8993841433504564,3.0,1.0
-La Meringaie Martyrs,Chez Alain Miam Miam,2.346474343017479,3.0,1.0
-La Meringaie Martyrs,Hôtel des Invalides,3.1969520239623663,3.0,1.0
-La Meringaie Martyrs,Galerie Butte Montmartre,0.7783644865127115,3.0,1.0
-La Meringaie Martyrs,tucked friperie,2.7608579017722636,3.0,1.0
-La Meringaie Martyrs,Chinemachine,0.8347629849704391,3.0,1.0
-La Meringaie Martyrs,Shakespeare and Company,2.9798662546491763,3.0,1.0
-La Meringaie Martyrs,Palace of Versailles,18.059812259380983,3.0,1.0
-La Meringaie Martyrs,BO&MIE,2.130960470181536,3.0,1.0
-La Meringaie Martyrs,Plaza Athénée,3.0036477097566547,3.0,1.0
-La Meringaie Martyrs,Bistrot Paul Bert,4.035861776128788,3.0,1.0
-Pierre Hermé,Bibliothèque Nationale de France - Richelieu,2.032146818843903,3.0,1.0
-Pierre Hermé,L'As du Fallafel,3.651174117197897,3.0,1.0
-Pierre Hermé,Dumbo,2.4056976137872903,3.0,1.0
-Pierre Hermé,Le Bistro Marbeuf,0.5956372757765601,3.0,1.0
-Pierre Hermé,Untucked friperie,4.406707680965094,3.0,1.0
-Pierre Hermé,Café Kitsuné Louvre,1.9220653865679767,3.0,1.0
-Pierre Hermé,Le Train Bleu,5.218183708759984,3.0,1.0
-Pierre Hermé,La Poule au Pot,2.9783586603627836,3.0,1.0
-Stohrer,Bibliothèque Nationale de France - Richelieu,0.9618562344628673,3.0,1.0
-Stohrer,L'As du Fallafel,1.039118428095249,3.0,1.0
-Stohrer,Dumbo,1.0426476446903903,3.0,1.0
-Stohrer,Le Bistro Marbeuf,3.266209408146114,3.0,1.0
-Stohrer,Untucked friperie,1.7403663509155907,3.0,1.0
-Stohrer,Café Kitsuné Louvre,0.7502868016021078,3.0,1.0
-Stohrer,Le Train Bleu,2.8122078346726576,3.0,1.0
-Stohrer,La Poule au Pot,0.3130276057401654,3.0,1.0
-Ritz Paris Le Comptoir,Bibliothèque Nationale de France - Richelieu,0.7708954056936805,3.0,1.0
-Ritz Paris Le Comptoir,L'As du Fallafel,2.5765375326946027,3.0,1.0
-Ritz Paris Le Comptoir,Dumbo,1.1467139362061183,3.0,1.0
-Ritz Paris Le Comptoir,Le Bistro Marbeuf,1.8319854269310987,3.0,1.0
-Ritz Paris Le Comptoir,Untucked friperie,3.26736701580389,3.0,1.0
-Ritz Paris Le Comptoir,Café Kitsuné Louvre,0.8269007928460438,3.0,1.0
-Ritz Paris Le Comptoir,BO&MIE,1.787625616983994,3.0,1.0
-Ritz Paris Le Comptoir,Le Train Bleu,4.295094488075659,3.0,1.0
-Ritz Paris Le Comptoir,La Poule au Pot,1.853749784798226,3.0,1.0
-Musée de l'Orangerie,The Basilica of the Sacred Heart of Paris (Sacré-Cœur),2.9549361215639265,3.0,
-Musée de l'Orangerie,Boutique of the French Comédie,0.8342016107527933,3.0,
-Palais Garnier,Boutique of the French Comédie,0.8849071989149462,3.0,
-Yann Couvreur Rosiers,The Basilica of the Sacred Heart of Paris (Sacré-Cœur),3.4741998895742303,3.0,
-Yann Couvreur Rosiers,Boutique of the French Comédie,2.034706066460305,3.0,
-Des Gâteaux et du Pain,The Basilica of the Sacred Heart of Paris (Sacré-Cœur),4.290227380275149,3.0,
-Des Gâteaux et du Pain,Boutique of the French Comédie,1.69024976098866,3.0,
-L'Eclair de Génie Café,The Basilica of the Sacred Heart of Paris (Sacré-Cœur),3.374517247420647,3.0,
-L'Eclair de Génie Café,Boutique of the French Comédie,1.930862188485504,3.0,
-Pierre Hermé,The Basilica of the Sacred Heart of Paris (Sacré-Cœur),3.287676985737869,3.0,
-Pierre Hermé,Boutique of the French Comédie,1.6970379175560166,3.0,
-Stohrer,The Basilica of the Sacred Heart of Paris (Sacré-Cœur),2.761285120696511,3.0,
-Stohrer,Boutique of the French Comédie,0.976619217932731,3.0,
-Ritz Paris Le Comptoir,The Basilica of the Sacred Heart of Paris (Sacré-Cœur),2.3543725094742887,3.0,
-Ritz Paris Le Comptoir,Boutique of the French Comédie,0.6248550057583616,3.0,
-La Belle Hortense,Eiffel Tower,4.646627726970304,2.0,3.0
-La Belle Hortense,Arc de Triomphe,4.951883465126504,2.0,3.0
-La Belle Hortense,Yann Couvreur Rosiers,0.14631785280002133,2.0,3.0
-La Belle Hortense,Des Gâteaux et du Pain,2.5543967089605926,2.0,3.0
-La Belle Hortense,L'Eclair de Génie Café,3.8070868658796315,2.0,3.0
-La Belle Hortense,Pierre Hermé,3.565723799721231,2.0,3.0
-La Belle Hortense,Stohrer,0.9475962961645495,2.0,3.0
-La Belle Hortense,Ritz Paris Le Comptoir,2.4857917240525422,2.0,3.0
-Jardin du Luxembourg,hotelF1 Paris Porte de Châtillon,3.150975180177568,2.0,3.0
-Jardin du Luxembourg,Eiffel Tower,3.4060234805044685,2.0,3.0
-Jardin du Luxembourg,Palais Garnier,2.8759191811193663,2.0,3.0
-Jardin du Luxembourg,La Meringaie Martyrs,3.6529404631484335,2.0,3.0
-Montmartre,hotelF1 Paris Porte de Châtillon,7.457851957031487,2.0,3.0
-Montmartre,Eiffel Tower,4.747272922201924,2.0,3.0
-Montmartre,Arc de Triomphe,3.7985864249119263,2.0,3.0
-Montmartre,Palais Garnier,1.858014522000197,2.0,3.0
-Montmartre,La Meringaie Martyrs,0.8856990824739435,2.0,3.0
-Galeries Lafayette Haussmann,Musée de l'Orangerie,1.3073410284734328,2.0,3.0
-Galeries Lafayette Haussmann,Yann Couvreur Rosiers,2.7349322826138143,2.0,3.0
-Galeries Lafayette Haussmann,Des Gâteaux et du Pain,2.695524772613138,2.0,3.0
-Galeries Lafayette Haussmann,L'Eclair de Génie Café,1.9112876421634752,2.0,3.0
-Galeries Lafayette Haussmann,Pierre Hermé,1.763918397261728,2.0,3.0
-Galeries Lafayette Haussmann,Stohrer,1.7103677292092612,2.0,3.0
-Galeries Lafayette Haussmann,Ritz Paris Le Comptoir,0.7081844780633993,2.0,3.0
-Sainte-Chapelle,Musée de l'Orangerie,1.8545060613662774,2.0,3.0
-Sainte-Chapelle,Palais Garnier,2.053278481316083,2.0,3.0
-Sainte-Chapelle,Yann Couvreur Rosiers,1.1577795362984005,2.0,3.0
-Sainte-Chapelle,Des Gâteaux et du Pain,1.5479400880761955,2.0,3.0
-Sainte-Chapelle,L'Eclair de Génie Café,2.9653319986871454,2.0,3.0
-Sainte-Chapelle,Pierre Hermé,2.7193794103691324,2.0,3.0
-Sainte-Chapelle,Stohrer,0.756332759001482,2.0,3.0
-Sainte-Chapelle,Ritz Paris Le Comptoir,1.8492857504960427,2.0,3.0
-Episode,Musée de l'Orangerie,2.165804118007678,2.0,3.0
-Episode,Palais Garnier,1.8810366638751377,2.0,3.0
-Episode,Yann Couvreur Rosiers,0.7350811106230688,2.0,3.0
-Episode,Des Gâteaux et du Pain,2.353131427931865,2.0,3.0
-Episode,L'Eclair de Génie Café,3.276147131149626,2.0,3.0
-Episode,Pierre Hermé,3.0405964101777085,2.0,3.0
-Episode,Stohrer,0.369964957701025,2.0,3.0
-Episode,Ritz Paris Le Comptoir,1.8985212012117287,2.0,3.0
-Le Procope,hotelF1 Paris Porte de Châtillon,3.882150004624701,2.0,3.0
-Le Procope,Eiffel Tower,3.2288153285712524,2.0,3.0
-Le Procope,Arc de Triomphe,3.871569099546686,2.0,3.0
-Le Procope,La Meringaie Martyrs,2.839241997134871,2.0,3.0
-Notre Dame,hotelF1 Paris Porte de Châtillon,4.340401920737784,2.0,3.0
-Notre Dame,Eiffel Tower,4.164154026735344,2.0,3.0
-Notre Dame,Arc de Triomphe,4.69700660472798,2.0,3.0
-Notre Dame,La Meringaie Martyrs,3.0077842172729903,2.0,3.0
-Bontemps La Pâtisserie,hotelF1 Paris Porte de Châtillon,5.14759990153083,2.0,3.0
-Bontemps La Pâtisserie,Eiffel Tower,4.83097854285448,2.0,3.0
-Bontemps La Pâtisserie,Arc de Triomphe,5.142455813130325,2.0,3.0
-Bontemps La Pâtisserie,La Meringaie Martyrs,2.869260733768877,2.0,3.0
-Boulangerie Utopie,hotelF1 Paris Porte de Châtillon,6.191070167828921,2.0,3.0
-Boulangerie Utopie,Eiffel Tower,5.5580817400469416,2.0,3.0
-Boulangerie Utopie,Arc de Triomphe,5.5928560383851975,2.0,3.0
-Boulangerie Utopie,Yann Couvreur Rosiers,1.0283703216694466,2.0,3.0
-Boulangerie Utopie,La Meringaie Martyrs,2.7561352009398656,2.0,3.0
-Fou de Pâtisserie,hotelF1 Paris Porte de Châtillon,5.187502092328524,2.0,3.0
-Fou de Pâtisserie,Eiffel Tower,4.25698888927812,2.0,3.0
-Fou de Pâtisserie,Arc de Triomphe,4.4225812534352205,2.0,3.0
-Fou de Pâtisserie,Yann Couvreur Rosiers,0.7063057290964033,2.0,3.0
-Fou de Pâtisserie,Des Gâteaux et du Pain,2.383922384706219,2.0,3.0
-Fou de Pâtisserie,La Meringaie Martyrs,2.1499837504356365,2.0,3.0
-Cedric Grolet Café,hotelF1 Paris Porte de Châtillon,5.416378895147493,2.0,3.0
-Cedric Grolet Café,Eiffel Tower,2.899496840000383,2.0,3.0
-Cedric Grolet Café,Arc de Triomphe,2.59446494902083,2.0,3.0
-Cedric Grolet Café,Yann Couvreur Rosiers,2.5976386106400153,2.0,3.0
-Cedric Grolet Café,Des Gâteaux et du Pain,2.253778388717331,2.0,3.0
-Cedric Grolet Café,L'Eclair de Génie Café,1.643355988692075,2.0,3.0
-Cedric Grolet Café,Pierre Hermé,1.4591685676219126,2.0,3.0
-Chapon et la Chocolaterie de l'Eglise,hotelF1 Paris Porte de Châtillon,3.3368193693824284,2.0,3.0
-Chapon et la Chocolaterie de l'Eglise,Eiffel Tower,2.7418286735564816,2.0,3.0
-Chapon et la Chocolaterie de l'Eglise,Arc de Triomphe,3.6424884972751994,2.0,3.0
-Chapon et la Chocolaterie de l'Eglise,Yann Couvreur Rosiers,2.3288474529134997,2.0,3.0
-Chapon et la Chocolaterie de l'Eglise,Des Gâteaux et du Pain,0.37004803833382266,2.0,3.0
-Chapon et la Chocolaterie de l'Eglise,L'Eclair de Génie Café,2.44060094679788,2.0,3.0
-Chapon et la Chocolaterie de l'Eglise,Pierre Hermé,2.2141866260944174,2.0,3.0
-Chapon et la Chocolaterie de l'Eglise,Stohrer,1.7838305646676806,2.0,3.0
-Chapon et la Chocolaterie de l'Eglise,Ritz Paris Le Comptoir,1.9514040785976066,2.0,3.0
-La Belle Hortense,Galeries Lafayette Haussmann,2.62716618524274,2.0,2.0
-La Belle Hortense,Sainte-Chapelle,1.0148946644112924,2.0,2.0
-La Belle Hortense,Episode,0.6248950444714799,2.0,2.0
-Jardin du Luxembourg,La Belle Hortense,1.973552580154985,2.0,2.0
-Jardin du Luxembourg,Montmartre,4.524025497184619,2.0,2.0
-Jardin du Luxembourg,Le Procope,0.8138308450358135,2.0,2.0
-Jardin du Luxembourg,Notre Dame,1.2430995856994902,2.0,2.0
-Jardin du Luxembourg,Bontemps La Pâtisserie,2.085312819351256,2.0,2.0
-Jardin du Luxembourg,Boulangerie Utopie,3.110659396504088,2.0,2.0
-Jardin du Luxembourg,Fou de Pâtisserie,2.036528314688317,2.0,2.0
-Jardin du Luxembourg,Cedric Grolet Café,2.6983501590127337,2.0,2.0
-Jardin du Luxembourg,Chapon et la Chocolaterie de l'Eglise,0.7114612323541117,2.0,2.0
-Montmartre,La Belle Hortense,3.4248885731950507,2.0,2.0
-Montmartre,Le Procope,3.710469014138395,2.0,2.0
-Montmartre,Notre Dame,3.8003502350795384,2.0,2.0
-Montmartre,Bontemps La Pâtisserie,3.5392014914600267,2.0,2.0
-Montmartre,Boulangerie Utopie,3.20021405096648,2.0,2.0
-Montmartre,Fou de Pâtisserie,2.8852108645063477,2.0,2.0
-Montmartre,Cedric Grolet Café,2.089500821047915,2.0,2.0
-Montmartre,Chapon et la Chocolaterie de l'Eglise,4.137726076681545,2.0,2.0
-Galeries Lafayette Haussmann,Jardin du Luxembourg,3.0924663100273575,2.0,2.0
-Galeries Lafayette Haussmann,Montmartre,1.6481485952758637,2.0,2.0
-Galeries Lafayette Haussmann,Sainte-Chapelle,2.241006428133939,2.0,2.0
-Galeries Lafayette Haussmann,Episode,2.0026532108193402,2.0,2.0
-Sainte-Chapelle,Jardin du Luxembourg,1.154041572195884,2.0,2.0
-Sainte-Chapelle,Montmartre,3.4819071251424707,2.0,2.0
-Sainte-Chapelle,Episode,0.8724261938190253,2.0,2.0
-Episode,Jardin du Luxembourg,2.0166518770438238,2.0,2.0
-Episode,Montmartre,2.8767171090261305,2.0,2.0
-Le Procope,La Belle Hortense,1.5293434709553122,2.0,2.0
-Le Procope,Galeries Lafayette Haussmann,2.2995308402139676,2.0,2.0
-Le Procope,Sainte-Chapelle,0.5203790699366642,2.0,2.0
-Le Procope,Episode,1.356596007138821,2.0,2.0
-Le Procope,Notre Dame,0.9388881334634936,2.0,2.0
-Le Procope,Bontemps La Pâtisserie,1.691529503893377,2.0,2.0
-Le Procope,Boulangerie Utopie,2.6160224552060134,2.0,2.0
-Le Procope,Fou de Pâtisserie,1.384421172125168,2.0,2.0
-Le Procope,Cedric Grolet Café,1.9257903081893855,2.0,2.0
-Le Procope,Chapon et la Chocolaterie de l'Eglise,0.6737185642054593,2.0,2.0
-Notre Dame,La Belle Hortense,0.734243732152678,2.0,2.0
-Notre Dame,Galeries Lafayette Haussmann,2.700389673176525,2.0,2.0
-Notre Dame,Sainte-Chapelle,0.5382706855129016,2.0,2.0
-Notre Dame,Episode,0.9602977640026135,2.0,2.0
-Notre Dame,Bontemps La Pâtisserie,0.8434966311616565,2.0,2.0
-Notre Dame,Boulangerie Utopie,1.869860271235289,2.0,2.0
-Notre Dame,Fou de Pâtisserie,0.9643301404816709,2.0,2.0
-Notre Dame,Cedric Grolet Café,2.4352968998463678,2.0,2.0
-Notre Dame,Chapon et la Chocolaterie de l'Eglise,1.5451029651839567,2.0,2.0
-Bontemps La Pâtisserie,La Belle Hortense,0.19116181694595274,2.0,2.0
-Bontemps La Pâtisserie,Galeries Lafayette Haussmann,2.799228210658446,2.0,2.0
-Bontemps La Pâtisserie,Sainte-Chapelle,1.1840161735947996,2.0,2.0
-Bontemps La Pâtisserie,Episode,0.7981533580264509,2.0,2.0
-Bontemps La Pâtisserie,Boulangerie Utopie,1.0434711282554836,2.0,2.0
-Bontemps La Pâtisserie,Fou de Pâtisserie,0.7699973930274059,2.0,2.0
-Bontemps La Pâtisserie,Cedric Grolet Café,2.658436669233116,2.0,2.0
-Bontemps La Pâtisserie,Chapon et la Chocolaterie de l'Eglise,2.3456446108464934,2.0,2.0
-Boulangerie Utopie,La Belle Hortense,1.1371072910776157,2.0,2.0
-Boulangerie Utopie,Galeries Lafayette Haussmann,2.9853921159995456,2.0,2.0
-Boulangerie Utopie,Sainte-Chapelle,2.0962931822059727,2.0,2.0
-Boulangerie Utopie,Episode,1.3457470905235867,2.0,2.0
-Boulangerie Utopie,Fou de Pâtisserie,1.3099821005984755,2.0,2.0
-Boulangerie Utopie,Cedric Grolet Café,3.0009049037192543,2.0,2.0
-Boulangerie Utopie,Chapon et la Chocolaterie de l'Eglise,3.288927876133039,2.0,2.0
-Fou de Pâtisserie,La Belle Hortense,0.5997674232159352,2.0,2.0
-Fou de Pâtisserie,Galeries Lafayette Haussmann,2.0295217551988576,2.0,2.0
-Fou de Pâtisserie,Sainte-Chapelle,0.8958826150450127,2.0,2.0
-Fou de Pâtisserie,Episode,0.03657654009785928,2.0,2.0
-Fou de Pâtisserie,Cedric Grolet Café,1.8978919999581183,2.0,2.0
-Fou de Pâtisserie,Chapon et la Chocolaterie de l'Eglise,2.0508070922099346,2.0,2.0
-Cedric Grolet Café,La Belle Hortense,2.4752823891973446,2.0,2.0
-Cedric Grolet Café,Galeries Lafayette Haussmann,0.4471434424166071,2.0,2.0
-Cedric Grolet Café,Sainte-Chapelle,1.9392392586567206,2.0,2.0
-Cedric Grolet Café,Episode,1.8662653120490222,2.0,2.0
-Cedric Grolet Café,Chapon et la Chocolaterie de l'Eglise,2.168301069568902,2.0,2.0
-Chapon et la Chocolaterie de l'Eglise,La Belle Hortense,2.191480127393691,2.0,2.0
-Chapon et la Chocolaterie de l'Eglise,Galeries Lafayette Haussmann,2.5949693871370467,2.0,2.0
-Chapon et la Chocolaterie de l'Eglise,Sainte-Chapelle,1.1926347873717802,2.0,2.0
-Chapon et la Chocolaterie de l'Eglise,Episode,2.0215626409965974,2.0,2.0
-La Belle Hortense,Bibliothèque Nationale de France - Richelieu,1.8863033706906802,2.0,1.0
-La Belle Hortense,Louise Café,1.6158348472284123,2.0,1.0
-La Belle Hortense,Chez Alain Miam Miam,0.5749039644448508,2.0,1.0
-La Belle Hortense,Hôtel des Invalides,3.3229523665263607,2.0,1.0
-La Belle Hortense,Galerie Butte Montmartre,3.4316245065828745,2.0,1.0
-La Belle Hortense,tucked friperie,0.7028381690833462,2.0,1.0
-La Belle Hortense,Chinemachine,3.4693740617773967,2.0,1.0
-La Belle Hortense,Shakespeare and Company,0.9718797074209234,2.0,1.0
-La Belle Hortense,Palace of Versailles,18.348833170771215,2.0,1.0
-La Belle Hortense,Le Train Bleu,1.9036637837528019,2.0,1.0
-La Belle Hortense,La Poule au Pot,0.6431980083038596,2.0,1.0
-Jardin du Luxembourg,Louise Café,0.7562671024541792,2.0,1.0
-Jardin du Luxembourg,Chez Alain Miam Miam,2.46327556463992,2.0,1.0
-Jardin du Luxembourg,Hôtel des Invalides,2.139408306663902,2.0,1.0
-Jardin du Luxembourg,Untucked friperie,2.73513993232911,2.0,1.0
-Jardin du Luxembourg,Café Kitsuné Louvre,1.9237278819866943,2.0,1.0
-Jardin du Luxembourg,BO&MIE,1.8934953322989936,2.0,1.0
-Jardin du Luxembourg,Plaza Athénée,3.278273132008224,2.0,1.0
-Jardin du Luxembourg,Bistrot Paul Bert,3.24954912484616,2.0,1.0
-Montmartre,Louise Café,3.773735986278601,2.0,1.0
-Montmartre,Chez Alain Miam Miam,2.9611891222863647,2.0,1.0
-Montmartre,Hôtel des Invalides,4.022223917957569,2.0,1.0
-Montmartre,Galerie Butte Montmartre,0.23965421903432996,2.0,1.0
-Montmartre,Untucked friperie,3.74899823133337,2.0,1.0
-Montmartre,Café Kitsuné Louvre,2.6180113645457364,2.0,1.0
-Montmartre,BO&MIE,2.9019230460776155,2.0,1.0
-Montmartre,Plaza Athénée,3.6707439935161705,2.0,1.0
-Montmartre,Bistrot Paul Bert,4.52823808543154,2.0,1.0
-Galeries Lafayette Haussmann,Bibliothèque Nationale de France - Richelieu,0.7485578587222708,2.0,1.0
-Galeries Lafayette Haussmann,L'As du Fallafel,2.7185007292474697,2.0,1.0
-Galeries Lafayette Haussmann,Dumbo,0.8626530735338539,2.0,1.0
-Galeries Lafayette Haussmann,Le Bistro Marbeuf,2.251805933997252,2.0,1.0
-Galeries Lafayette Haussmann,tucked friperie,2.8653965686770517,2.0,1.0
-Galeries Lafayette Haussmann,Chinemachine,1.5429155543690385,2.0,1.0
-Galeries Lafayette Haussmann,Shakespeare and Company,2.6001910213054398,2.0,1.0
-Galeries Lafayette Haussmann,Palace of Versailles,17.277533215667557,2.0,1.0
-Galeries Lafayette Haussmann,Le Train Bleu,4.518938489298532,2.0,1.0
-Galeries Lafayette Haussmann,La Poule au Pot,1.9892609262994716,2.0,1.0
-Sainte-Chapelle,Bibliothèque Nationale de France - Richelieu,1.5319932285418607,2.0,1.0
-Sainte-Chapelle,L'As du Fallafel,1.0756473065895338,2.0,1.0
-Sainte-Chapelle,Dumbo,1.7381077841645374,2.0,1.0
-Sainte-Chapelle,Le Bistro Marbeuf,3.298523045287209,2.0,1.0
-Sainte-Chapelle,tucked friperie,1.6916687690773455,2.0,1.0
-Sainte-Chapelle,Chinemachine,3.4705151718995353,2.0,1.0
-Sainte-Chapelle,Shakespeare and Company,0.3610987536297227,2.0,1.0
-Sainte-Chapelle,Palace of Versailles,17.33836208604631,2.0,1.0
-Sainte-Chapelle,Le Train Bleu,2.5032167848036404,2.0,1.0
-Sainte-Chapelle,La Poule au Pot,0.7834986563158794,2.0,1.0
-Episode,Bibliothèque Nationale de France - Richelieu,1.2642920346338689,2.0,1.0
-Episode,L'As du Fallafel,0.7159735828332,2.0,1.0
-Episode,Dumbo,1.2446919606312508,2.0,1.0
-Episode,Le Bistro Marbeuf,3.636104361050297,2.0,1.0
-Episode,Untucked friperie,1.373109228666247,2.0,1.0
-Episode,Chinemachine,2.904317538830904,2.0,1.0
-Episode,Shakespeare and Company,1.0550759441162894,2.0,1.0
-Episode,Palace of Versailles,18.082423854229177,2.0,1.0
-Episode,Le Train Bleu,2.5253792939752673,2.0,1.0
-Episode,La Poule au Pot,0.09188310252662055,2.0,1.0
-Le Procope,Louise Café,0.09189241148457811,2.0,1.0
-Le Procope,Chez Alain Miam Miam,1.8952403683841441,2.0,1.0
-Le Procope,Hôtel des Invalides,1.8900271849851933,2.0,1.0
-Le Procope,Galerie Butte Montmartre,3.616794530851997,2.0,1.0
-Le Procope,tucked friperie,2.211714611806998,2.0,1.0
-Le Procope,Café Kitsuné Louvre,1.1143532589585237,2.0,1.0
-Le Procope,BO&MIE,1.2108761831538144,2.0,1.0
-Le Procope,Plaza Athénée,2.849305781139027,2.0,1.0
-Le Procope,Bistrot Paul Bert,3.0734079663971503,2.0,1.0
-Notre Dame,Louise Café,1.00974617451202,2.0,1.0
-Notre Dame,Chez Alain Miam Miam,1.2619445165597962,2.0,1.0
-Notre Dame,Hôtel des Invalides,2.8249444824185996,2.0,1.0
-Notre Dame,Galerie Butte Montmartre,3.7643657291562875,2.0,1.0
-Notre Dame,tucked friperie,1.4310235939004337,2.0,1.0
-Notre Dame,Chinemachine,3.8113454869581207,2.0,1.0
-Notre Dame,Café Kitsuné Louvre,1.551935545541851,2.0,1.0
-Notre Dame,BO&MIE,0.9025785244973039,2.0,1.0
-Notre Dame,Plaza Athénée,3.720697591731373,2.0,1.0
-Notre Dame,Bistrot Paul Bert,2.139911991790309,2.0,1.0
-Bontemps La Pâtisserie,Louise Café,1.7759201543950276,2.0,1.0
-Bontemps La Pâtisserie,Chez Alain Miam Miam,0.6126649705242923,2.0,1.0
-Bontemps La Pâtisserie,Hôtel des Invalides,3.504643770552564,2.0,1.0
-Bontemps La Pâtisserie,Galerie Butte Montmartre,3.556177979017488,2.0,1.0
-Bontemps La Pâtisserie,tucked friperie,0.5997701195652881,2.0,1.0
-Bontemps La Pâtisserie,Chinemachine,3.59161726153826,2.0,1.0
-Bontemps La Pâtisserie,Shakespeare and Company,1.1022349769519517,2.0,1.0
-Bontemps La Pâtisserie,Palace of Versailles,18.50497485926926,2.0,1.0
-Bontemps La Pâtisserie,BO&MIE,0.8876242528952911,2.0,1.0
-Bontemps La Pâtisserie,Plaza Athénée,4.252579123690389,2.0,1.0
-Bontemps La Pâtisserie,Bistrot Paul Bert,1.4651369606070703,2.0,1.0
-Boulangerie Utopie,Louise Café,2.7063675861140437,2.0,1.0
-Boulangerie Utopie,Chez Alain Miam Miam,0.7502796763263673,2.0,1.0
-Boulangerie Utopie,Hôtel des Invalides,4.278948982176977,2.0,1.0
-Boulangerie Utopie,Galerie Butte Montmartre,3.286025602888062,2.0,1.0
-Boulangerie Utopie,tucked friperie,0.44373117325830275,2.0,1.0
-Boulangerie Utopie,Chinemachine,3.3036201670958403,2.0,1.0
-Boulangerie Utopie,Shakespeare and Company,2.106680864908539,2.0,1.0
-Boulangerie Utopie,Palace of Versailles,19.414879369147386,2.0,1.0
-Boulangerie Utopie,BO&MIE,1.5005807247583134,2.0,1.0
-Boulangerie Utopie,Plaza Athénée,4.83288495568465,2.0,1.0
-Boulangerie Utopie,Bistrot Paul Bert,1.3310228917413265,2.0,1.0
-Fou de Pâtisserie,Louise Café,1.4762138223200574,2.0,1.0
-Fou de Pâtisserie,Chez Alain Miam Miam,0.5597973172658401,2.0,1.0
-Fou de Pâtisserie,Hôtel des Invalides,2.9693670256395475,2.0,1.0
-Fou de Pâtisserie,Galerie Butte Montmartre,2.873572828609825,2.0,1.0
-Fou de Pâtisserie,tucked friperie,0.9891352655769908,2.0,1.0
-Fou de Pâtisserie,Chinemachine,2.9151170797610177,2.0,1.0
-Fou de Pâtisserie,Shakespeare and Company,1.0683093898538536,2.0,1.0
-Fou de Pâtisserie,Palace of Versailles,18.116737263258088,2.0,1.0
-Fou de Pâtisserie,BO&MIE,0.1911478333337721,2.0,1.0
-Fou de Pâtisserie,Plaza Athénée,3.5828776938744173,2.0,1.0
-Fou de Pâtisserie,Bistrot Paul Bert,2.1778601524613803,2.0,1.0
-Cedric Grolet Café,Louise Café,1.958444116872824,2.0,1.0
-Cedric Grolet Café,Chez Alain Miam Miam,2.347512323171958,2.0,1.0
-Cedric Grolet Café,Hôtel des Invalides,1.9596430706140398,2.0,1.0
-Cedric Grolet Café,Galerie Butte Montmartre,1.9235509536729927,2.0,1.0
-Cedric Grolet Café,tucked friperie,2.8170516683873847,2.0,1.0
-Cedric Grolet Café,Chinemachine,1.9889137362865514,2.0,1.0
-Cedric Grolet Café,Shakespeare and Company,2.299995249296388,2.0,1.0
-Cedric Grolet Café,Palace of Versailles,16.96240355420582,2.0,1.0
-Cedric Grolet Café,BO&MIE,1.7724887389954798,2.0,1.0
-Cedric Grolet Café,Plaza Athénée,1.9530534012786858,2.0,1.0
-Cedric Grolet Café,Bistrot Paul Bert,4.067361361234899,2.0,1.0
-Chapon et la Chocolaterie de l'Eglise,Louise Café,0.5827489995142281,2.0,1.0
-Chapon et la Chocolaterie de l'Eglise,Chez Alain Miam Miam,2.568590831345009,2.0,1.0
-Chapon et la Chocolaterie de l'Eglise,Hôtel des Invalides,1.4424882904526266,2.0,1.0
-Chapon et la Chocolaterie de l'Eglise,Galerie Butte Montmartre,4.0146128983219915,2.0,1.0
-Chapon et la Chocolaterie de l'Eglise,tucked friperie,2.8809960594376367,2.0,1.0
-Chapon et la Chocolaterie de l'Eglise,Chinemachine,4.076024011417983,2.0,1.0
-Chapon et la Chocolaterie de l'Eglise,Shakespeare and Company,1.2655782745482365,2.0,1.0
-Chapon et la Chocolaterie de l'Eglise,Palace of Versailles,16.159349770198535,2.0,1.0
-Chapon et la Chocolaterie de l'Eglise,Plaza Athénée,2.5668119915568006,2.0,1.0
-Chapon et la Chocolaterie de l'Eglise,Bistrot Paul Bert,3.6789727291555843,2.0,1.0
-Jardin du Luxembourg,The Basilica of the Sacred Heart of Paris (Sacré-Cœur),4.524025497184619,2.0,
-Jardin du Luxembourg,Boutique of the French Comédie,1.99306813629759,2.0,
-Montmartre,Boutique of the French Comédie,2.6103846676298623,2.0,
-Galeries Lafayette Haussmann,The Basilica of the Sacred Heart of Paris (Sacré-Cœur),1.6481485952758637,2.0,
-Sainte-Chapelle,The Basilica of the Sacred Heart of Paris (Sacré-Cœur),3.4819071251424707,2.0,
-Episode,The Basilica of the Sacred Heart of Paris (Sacré-Cœur),2.8767171090261305,2.0,
-Episode,Boutique of the French Comédie,1.3457470905235867,2.0,
-Bibliothèque Nationale de France - Richelieu,hotelF1 Paris Porte de Châtillon,5.4402920532678785,1.0,3.0
-Bibliothèque Nationale de France - Richelieu,Musée de l'Orangerie,1.2796485037299237,1.0,3.0
-Bibliothèque Nationale de France - Richelieu,Palais Garnier,0.6174956310028815,1.0,3.0
-Bibliothèque Nationale de France - Richelieu,La Meringaie Martyrs,1.1616189677585247,1.0,3.0
-L'As du Fallafel,hotelF1 Paris Porte de Châtillon,5.075060918073774,1.0,3.0
-L'As du Fallafel,Eiffel Tower,4.721298915653769,1.0,3.0
-L'As du Fallafel,Palais Garnier,2.593339548275064,1.0,3.0
-L'As du Fallafel,La Meringaie Martyrs,2.813480171694311,1.0,3.0
-Louise Café,Musée de l'Orangerie,1.5974891218355485,1.0,3.0
-Louise Café,Arc de Triomphe,3.8455689547734506,1.0,3.0
-Louise Café,Yann Couvreur Rosiers,1.755551393801706,1.0,3.0
-Louise Café,Des Gâteaux et du Pain,0.9392467583304073,1.0,3.0
-Louise Café,L'Eclair de Génie Café,2.6313835721621484,1.0,3.0
-Louise Café,Pierre Hermé,2.3890135883534405,1.0,3.0
-Louise Café,Stohrer,1.2396499883699579,1.0,3.0
-Louise Café,Ritz Paris Le Comptoir,1.793167216968104,1.0,3.0
-Dumbo,hotelF1 Paris Porte de Châtillon,5.806219949960216,1.0,3.0
-Dumbo,Eiffel Tower,3.814330257892675,1.0,3.0
-Dumbo,Palais Garnier,0.8385120691306114,1.0,3.0
-Dumbo,La Meringaie Martyrs,0.9162163099557807,1.0,3.0
-Chez Alain Miam Miam,Musée de l'Orangerie,2.7396512001739275,1.0,3.0
-Chez Alain Miam Miam,Arc de Triomphe,4.917554344307813,1.0,3.0
-Chez Alain Miam Miam,Yann Couvreur Rosiers,0.5559746332220518,1.0,3.0
-Chez Alain Miam Miam,Des Gâteaux et du Pain,2.9135426612827544,1.0,3.0
-Chez Alain Miam Miam,L'Eclair de Génie Café,3.836484129053324,1.0,3.0
-Chez Alain Miam Miam,Pierre Hermé,3.605370624858968,1.0,3.0
-Chez Alain Miam Miam,Stohrer,0.9525996181415712,1.0,3.0
-Chez Alain Miam Miam,Ritz Paris Le Comptoir,2.4192985109300174,1.0,3.0
-Le Bistro Marbeuf,hotelF1 Paris Porte de Châtillon,5.008603684974517,1.0,3.0
-Le Bistro Marbeuf,Eiffel Tower,1.140650104018521,1.0,3.0
-Le Bistro Marbeuf,Palais Garnier,2.158865689717734,1.0,3.0
-Le Bistro Marbeuf,La Meringaie Martyrs,3.0171383685712128,1.0,3.0
-Hôtel des Invalides,Musée de l'Orangerie,1.0844957484693007,1.0,3.0
-Hôtel des Invalides,Arc de Triomphe,2.3054835001393386,1.0,3.0
-Hôtel des Invalides,Yann Couvreur Rosiers,3.4692079558159903,1.0,3.0
-Hôtel des Invalides,Des Gâteaux et du Pain,1.1669130937550702,1.0,3.0
-Hôtel des Invalides,L'Eclair de Génie Café,1.204390987750775,1.0,3.0
-Hôtel des Invalides,Pierre Hermé,1.0517652815173746,1.0,3.0
-Hôtel des Invalides,Stohrer,2.587218744824799,1.0,3.0
-Hôtel des Invalides,Ritz Paris Le Comptoir,1.6958646785576086,1.0,3.0
-Galerie Butte Montmartre,Musée de l'Orangerie,2.7772183006294657,1.0,3.0
-Galerie Butte Montmartre,Yann Couvreur Rosiers,3.4903559259285024,1.0,3.0
-Galerie Butte Montmartre,Des Gâteaux et du Pain,4.150649828504329,1.0,3.0
-Galerie Butte Montmartre,L'Eclair de Génie Café,3.1527825524972237,1.0,3.0
-Galerie Butte Montmartre,Pierre Hermé,3.073047612493433,1.0,3.0
-Galerie Butte Montmartre,Stohrer,2.717338741719339,1.0,3.0
-Galerie Butte Montmartre,Ritz Paris Le Comptoir,2.185442156550187,1.0,3.0
-tucked friperie,Musée de l'Orangerie,3.1900165851696944,1.0,3.0
-tucked friperie,Palais Garnier,2.7881058277964095,1.0,3.0
-tucked friperie,Yann Couvreur Rosiers,0.5866255810664682,1.0,3.0
-tucked friperie,Des Gâteaux et du Pain,3.2394284127185626,1.0,3.0
-tucked friperie,L'Eclair de Génie Café,4.294803270305779,1.0,3.0
-tucked friperie,Pierre Hermé,4.061491975008798,1.0,3.0
-tucked friperie,Stohrer,1.394349312669608,1.0,3.0
-tucked friperie,Ritz Paris Le Comptoir,2.886573666566941,1.0,3.0
-Untucked friperie,hotelF1 Paris Porte de Châtillon,5.711311551762742,1.0,3.0
-Untucked friperie,Eiffel Tower,5.5236005546297395,1.0,3.0
-Untucked friperie,Arc de Triomphe,5.760451789918042,1.0,3.0
-Untucked friperie,La Meringaie Martyrs,3.2043017634799384,1.0,3.0
-Chinemachine,Musée de l'Orangerie,2.84339661494067,1.0,3.0
-Chinemachine,Palais Garnier,1.7593713149168575,1.0,3.0
-Chinemachine,Yann Couvreur Rosiers,3.525959698789942,1.0,3.0
-Chinemachine,Des Gâteaux et du Pain,4.213985605004296,1.0,3.0
-Chinemachine,L'Eclair de Génie Café,3.2172150497174887,1.0,3.0
-Chinemachine,Pierre Hermé,3.13853299636379,1.0,3.0
-Chinemachine,Stohrer,2.765440003545258,1.0,3.0
-Chinemachine,Ritz Paris Le Comptoir,2.2510689617362756,1.0,3.0
-Shakespeare and Company,Musée de l'Orangerie,2.176555267122029,1.0,3.0
-Shakespeare and Company,Palais Garnier,2.4139337109326235,1.0,3.0
-Shakespeare and Company,Yann Couvreur Rosiers,1.0961214716943648,1.0,3.0
-Shakespeare and Company,Des Gâteaux et du Pain,1.6354519378626227,1.0,3.0
-Shakespeare and Company,L'Eclair de Génie Café,3.2716746118480997,1.0,3.0
-Shakespeare and Company,Pierre Hermé,3.0259089251140963,1.0,3.0
-Shakespeare and Company,Stohrer,1.0452323104588155,1.0,3.0
-Shakespeare and Company,Ritz Paris Le Comptoir,2.2055063904674417,1.0,3.0
-Café Kitsuné Louvre,hotelF1 Paris Porte de Châtillon,4.869986806389421,1.0,3.0
-Café Kitsuné Louvre,Eiffel Tower,3.160336317581969,1.0,3.0
-Café Kitsuné Louvre,Arc de Triomphe,3.2785445929320023,1.0,3.0
-Café Kitsuné Louvre,La Meringaie Martyrs,1.737431863824916,1.0,3.0
-Palace of Versailles,Musée de l'Orangerie,16.18399171788433,1.0,3.0
-Palace of Versailles,Palais Garnier,17.15397128737247,1.0,3.0
-Palace of Versailles,Yann Couvreur Rosiers,18.48765002543869,1.0,3.0
-Palace of Versailles,Des Gâteaux et du Pain,15.79457045329279,1.0,3.0
-Palace of Versailles,L'Eclair de Génie Café,15.36908937252499,1.0,3.0
-Palace of Versailles,Pierre Hermé,15.516680406323072,1.0,3.0
-Palace of Versailles,Stohrer,17.759515152179965,1.0,3.0
-Palace of Versailles,Ritz Paris Le Comptoir,16.735969649021232,1.0,3.0
-BO&MIE,hotelF1 Paris Porte de Châtillon,5.04211770722548,1.0,3.0
-BO&MIE,Eiffel Tower,4.070421938370178,1.0,3.0
-BO&MIE,Arc de Triomphe,4.267300678814579,1.0,3.0
-BO&MIE,Yann Couvreur Rosiers,0.8286424110926213,1.0,3.0
-BO&MIE,Des Gâteaux et du Pain,2.2003390110384324,1.0,3.0
-BO&MIE,L'Eclair de Génie Café,3.143882016068349,1.0,3.0
-BO&MIE,Pierre Hermé,2.9065263870281046,1.0,3.0
-BO&MIE,Stohrer,0.24602168599251864,1.0,3.0
-Le Train Bleu,Musée de l'Orangerie,4.35771856331736,1.0,3.0
-Le Train Bleu,Palais Garnier,4.379212490542813,1.0,3.0
-Le Train Bleu,La Meringaie Martyrs,4.618708493427706,1.0,3.0
-Plaza Athénée,hotelF1 Paris Porte de Châtillon,4.887728637758048,1.0,3.0
-Plaza Athénée,Eiffel Tower,1.0941254759216605,1.0,3.0
-Plaza Athénée,Arc de Triomphe,1.0888344461120567,1.0,3.0
-Plaza Athénée,Yann Couvreur Rosiers,4.20417163476017,1.0,3.0
-Plaza Athénée,Des Gâteaux et du Pain,2.3506487038234725,1.0,3.0
-Plaza Athénée,L'Eclair de Génie Café,0.31300027941898284,1.0,3.0
-Plaza Athénée,Pierre Hermé,0.5120255193329674,1.0,3.0
-Plaza Athénée,Stohrer,3.17671672832686,1.0,3.0
-Plaza Athénée,Ritz Paris Le Comptoir,1.7695114330450434,1.0,3.0
-La Poule au Pot,Musée de l'Orangerie,2.100710461636464,1.0,3.0
-La Poule au Pot,Palais Garnier,1.8589840561639965,1.0,3.0
-La Poule au Pot,La Meringaie Martyrs,2.157158591012972,1.0,3.0
-Bistrot Paul Bert,hotelF1 Paris Porte de Châtillon,5.990358556293568,1.0,3.0
-Bistrot Paul Bert,Eiffel Tower,6.274354913853385,1.0,3.0
-Bistrot Paul Bert,Arc de Triomphe,6.5960034734924475,1.0,3.0
-Bistrot Paul Bert,Yann Couvreur Rosiers,1.5141016807316316,1.0,3.0
-Bistrot Paul Bert,Des Gâteaux et du Pain,4.048688353626303,1.0,3.0
-Bistrot Paul Bert,L'Eclair de Génie Café,5.4618854750398675,1.0,3.0
-Bistrot Paul Bert,Pierre Hermé,5.221098864980299,1.0,3.0
-Bistrot Paul Bert,Stohrer,2.57289257901483,1.0,3.0
-Bistrot Paul Bert,Ritz Paris Le Comptoir,4.110207569714142,1.0,3.0
-Bibliothèque Nationale de France - Richelieu,Jardin du Luxembourg,2.492581462282141,1.0,2.0
-Bibliothèque Nationale de France - Richelieu,Montmartre,2.0405475091332685,1.0,2.0
-Bibliothèque Nationale de France - Richelieu,Le Procope,1.6794417467244935,1.0,2.0
-Bibliothèque Nationale de France - Richelieu,Notre Dame,1.9640042448239434,1.0,2.0
-Bibliothèque Nationale de France - Richelieu,Bontemps La Pâtisserie,2.0624431567863994,1.0,2.0
-Bibliothèque Nationale de France - Richelieu,Boulangerie Utopie,2.3601928476589236,1.0,2.0
-Bibliothèque Nationale de France - Richelieu,Fou de Pâtisserie,1.2930604358170814,1.0,2.0
-Bibliothèque Nationale de France - Richelieu,Cedric Grolet Café,0.6408980046619641,1.0,2.0
-Bibliothèque Nationale de France - Richelieu,Chapon et la Chocolaterie de l'Eglise,2.106499223986731,1.0,2.0
-L'As du Fallafel,La Belle Hortense,0.09188775707947691,1.0,2.0
-L'As du Fallafel,Jardin du Luxembourg,1.9965885786122441,1.0,2.0
-L'As du Fallafel,Montmartre,3.5012507321608934,1.0,2.0
-L'As du Fallafel,Le Procope,1.5849314692406251,1.0,2.0
-L'As du Fallafel,Notre Dame,0.7535015529981333,1.0,2.0
-L'As du Fallafel,Bontemps La Pâtisserie,0.10973948572747205,1.0,2.0
-L'As du Fallafel,Boulangerie Utopie,1.119550487349848,1.0,2.0
-L'As du Fallafel,Fou de Pâtisserie,0.6902848361541887,1.0,2.0
-L'As du Fallafel,Cedric Grolet Café,2.567043759662761,1.0,2.0
-L'As du Fallafel,Chapon et la Chocolaterie de l'Eglise,2.2414929597567608,1.0,2.0
-Louise Café,Galeries Lafayette Haussmann,2.341595606149645,1.0,2.0
-Louise Café,Sainte-Chapelle,0.6101811075591874,1.0,2.0
-Louise Café,Episode,1.4483041636334355,1.0,2.0
-Dumbo,La Belle Hortense,1.8593876470684156,1.0,2.0
-Dumbo,Jardin du Luxembourg,2.7900873310990217,1.0,2.0
-Dumbo,Montmartre,1.7457756643945657,1.0,2.0
-Dumbo,Le Procope,1.9799875695366114,1.0,2.0
-Dumbo,Notre Dame,2.0919473783089706,1.0,2.0
-Dumbo,Bontemps La Pâtisserie,2.0154650461163697,1.0,2.0
-Dumbo,Boulangerie Utopie,2.12274984500608,1.0,2.0
-Dumbo,Fou de Pâtisserie,1.2644164196305954,1.0,2.0
-Dumbo,Cedric Grolet Café,0.9572988696984898,1.0,2.0
-Dumbo,Chapon et la Chocolaterie de l'Eglise,2.4699212765455703,1.0,2.0
-Chez Alain Miam Miam,Galeries Lafayette Haussmann,2.4027402127753974,1.0,2.0
-Chez Alain Miam Miam,Sainte-Chapelle,1.3816958224314817,1.0,2.0
-Chez Alain Miam Miam,Episode,0.5956889704884636,1.0,2.0
-Le Bistro Marbeuf,La Belle Hortense,4.159723169778563,1.0,2.0
-Le Bistro Marbeuf,Jardin du Luxembourg,3.4073011374301756,1.0,2.0
-Le Bistro Marbeuf,Montmartre,3.6603618151089488,1.0,2.0
-Le Bistro Marbeuf,Le Procope,2.9680220834122615,1.0,2.0
-Le Bistro Marbeuf,Notre Dame,3.8322234843905654,1.0,2.0
-Le Bistro Marbeuf,Bontemps La Pâtisserie,4.350753274311728,1.0,2.0
-Le Bistro Marbeuf,Boulangerie Utopie,4.912204350072156,1.0,2.0
-Le Bistro Marbeuf,Fou de Pâtisserie,3.6721629961721907,1.0,2.0
-Le Bistro Marbeuf,Cedric Grolet Café,2.0028326366955485,1.0,2.0
-Le Bistro Marbeuf,Chapon et la Chocolaterie de l'Eglise,2.6958789679327353,1.0,2.0
-Hôtel des Invalides,Galeries Lafayette Haussmann,2.381512735603522,1.0,2.0
-Hôtel des Invalides,Sainte-Chapelle,2.3376510007298963,1.0,2.0
-Hôtel des Invalides,Episode,2.933417431084535,1.0,2.0
-Galerie Butte Montmartre,Jardin du Luxembourg,4.430294727071508,1.0,2.0
-Galerie Butte Montmartre,Galeries Lafayette Haussmann,1.4773422832665832,1.0,2.0
-Galerie Butte Montmartre,Sainte-Chapelle,3.4184458998118235,1.0,2.0
-Galerie Butte Montmartre,Episode,2.862149292761473,1.0,2.0
-tucked friperie,Jardin du Luxembourg,2.6736347607753403,1.0,2.0
-tucked friperie,Montmartre,3.3123153063590145,1.0,2.0
-tucked friperie,Episode,1.0256562235889255,1.0,2.0
-Untucked friperie,La Belle Hortense,0.8796614596985263,1.0,2.0
-Untucked friperie,Galeries Lafayette Haussmann,3.2882595012851907,1.0,2.0
-Untucked friperie,Sainte-Chapelle,1.887850773744605,1.0,2.0
-Untucked friperie,Le Procope,2.3940431126284123,1.0,2.0
-Untucked friperie,Notre Dame,1.5148606718729551,1.0,2.0
-Untucked friperie,Bontemps La Pâtisserie,0.7038486586329449,1.0,2.0
-Untucked friperie,Boulangerie Utopie,0.6671695598670281,1.0,2.0
-Untucked friperie,Fou de Pâtisserie,1.3380715373754941,1.0,2.0
-Untucked friperie,Cedric Grolet Café,3.215867255543731,1.0,2.0
-Untucked friperie,Chapon et la Chocolaterie de l'Eglise,3.043052726491079,1.0,2.0
-Chinemachine,Jardin du Luxembourg,4.487651964556483,1.0,2.0
-Chinemachine,Montmartre,0.19139899023282422,1.0,2.0
-Chinemachine,Le Procope,3.6739855975949305,1.0,2.0
-Shakespeare and Company,Jardin du Luxembourg,1.0102656030385186,1.0,2.0
-Shakespeare and Company,Montmartre,3.802461461655701,1.0,2.0
-Shakespeare and Company,Le Procope,0.6660500600691225,1.0,2.0
-Shakespeare and Company,Notre Dame,0.28002434808105303,1.0,2.0
-Café Kitsuné Louvre,La Belle Hortense,1.674862697527958,1.0,2.0
-Café Kitsuné Louvre,Galeries Lafayette Haussmann,1.2022794736890363,1.0,2.0
-Café Kitsuné Louvre,Sainte-Chapelle,1.0546382728331412,1.0,2.0
-Café Kitsuné Louvre,Episode,1.1195838893634822,1.0,2.0
-Café Kitsuné Louvre,Bontemps La Pâtisserie,1.8648955910852736,1.0,2.0
-Café Kitsuné Louvre,Boulangerie Utopie,2.414583272166853,1.0,2.0
-Café Kitsuné Louvre,Fou de Pâtisserie,1.1554537048675773,1.0,2.0
-Café Kitsuné Louvre,Cedric Grolet Café,0.8857507789515929,1.0,2.0
-Café Kitsuné Louvre,Chapon et la Chocolaterie de l'Eglise,1.5335687496203514,1.0,2.0
-Palace of Versailles,Jardin du Luxembourg,16.522026121221113,1.0,2.0
-Palace of Versailles,Montmartre,18.662839559732785,1.0,2.0
-Palace of Versailles,Le Procope,16.820138762662495,1.0,2.0
-Palace of Versailles,Notre Dame,17.6898364046006,1.0,2.0
-BO&MIE,La Belle Hortense,0.7028381690833219,1.0,2.0
-BO&MIE,Galeries Lafayette Haussmann,1.9388669148215392,1.0,2.0
-BO&MIE,Sainte-Chapelle,0.7413806032744398,1.0,2.0
-BO&MIE,Episode,0.15651448602339812,1.0,2.0
-BO&MIE,Chapon et la Chocolaterie de l'Eglise,1.8719525691270724,1.0,2.0
-Le Train Bleu,Jardin du Luxembourg,2.7040037296130928,1.0,2.0
-Le Train Bleu,Montmartre,5.258562843514592,1.0,2.0
-Le Train Bleu,Le Procope,2.8380965670054445,1.0,2.0
-Le Train Bleu,Notre Dame,1.964994205792604,1.0,2.0
-Le Train Bleu,Bontemps La Pâtisserie,1.750795567488367,1.0,2.0
-Le Train Bleu,Boulangerie Utopie,2.243072070147729,1.0,2.0
-Le Train Bleu,Fou de Pâtisserie,2.50222051811568,1.0,2.0
-Le Train Bleu,Cedric Grolet Café,4.326707172100948,1.0,2.0
-Le Train Bleu,Chapon et la Chocolaterie de l'Eglise,3.299780274554053,1.0,2.0
-Plaza Athénée,La Belle Hortense,4.061744565787796,1.0,2.0
-Plaza Athénée,Galeries Lafayette Haussmann,2.2240307885813904,1.0,2.0
-Plaza Athénée,Sainte-Chapelle,3.1885928137035173,1.0,2.0
-Plaza Athénée,Episode,3.5466649190551576,1.0,2.0
-La Poule au Pot,Jardin du Luxembourg,1.930729404053383,1.0,2.0
-La Poule au Pot,Montmartre,2.915530585769705,1.0,2.0
-La Poule au Pot,Le Procope,1.264922202635908,1.0,2.0
-La Poule au Pot,Notre Dame,0.9007977493499577,1.0,2.0
-La Poule au Pot,Bontemps La Pâtisserie,0.8251294806994041,1.0,2.0
-La Poule au Pot,Boulangerie Utopie,1.429352056442005,1.0,2.0
-La Poule au Pot,Fou de Pâtisserie,0.1230113319262672,1.0,2.0
-La Poule au Pot,Cedric Grolet Café,1.833326908737016,1.0,2.0
-La Poule au Pot,Chapon et la Chocolaterie de l'Eglise,1.929679540180804,1.0,2.0
-Bistrot Paul Bert,La Belle Hortense,1.6559355432801723,1.0,2.0
-Bistrot Paul Bert,Galeries Lafayette Haussmann,4.144355803129608,1.0,2.0
-Bistrot Paul Bert,Sainte-Chapelle,2.601948213910321,1.0,2.0
-Bistrot Paul Bert,Episode,2.2116956610281897,1.0,2.0
-Bibliothèque Nationale de France - Richelieu,L'As du Fallafel,1.9780140215200919,1.0,1.0
-Bibliothèque Nationale de France - Richelieu,Dumbo,0.42373081188255896,1.0,1.0
-Bibliothèque Nationale de France - Richelieu,Le Bistro Marbeuf,2.6026952834206676,1.0,1.0
-Bibliothèque Nationale de France - Richelieu,Untucked friperie,2.5881985985267595,1.0,1.0
-Bibliothèque Nationale de France - Richelieu,Café Kitsuné Louvre,0.5776107235644174,1.0,1.0
-Bibliothèque Nationale de France - Richelieu,BO&MIE,1.192387693420252,1.0,1.0
-Bibliothèque Nationale de France - Richelieu,Plaza Athénée,2.5399957279524568,1.0,1.0
-Bibliothèque Nationale de France - Richelieu,Bistrot Paul Bert,3.442680970029838,1.0,1.0
-L'As du Fallafel,Dumbo,1.9476189884202932,1.0,1.0
-L'As du Fallafel,Le Bistro Marbeuf,4.244761604089088,1.0,1.0
-L'As du Fallafel,Untucked friperie,0.8123939687687425,1.0,1.0
-L'As du Fallafel,Café Kitsuné Louvre,1.764252281493736,1.0,1.0
-L'As du Fallafel,BO&MIE,0.7945649838020665,1.0,1.0
-L'As du Fallafel,Plaza Athénée,4.146011593618366,1.0,1.0
-L'As du Fallafel,Bistrot Paul Bert,1.5721959717181546,1.0,1.0
-Louise Café,Bibliothèque Nationale de France - Richelieu,1.738108116346457,1.0,1.0
-Louise Café,L'As du Fallafel,1.669900092088664,1.0,1.0
-Louise Café,Chez Alain Miam Miam,1.9867510363662575,1.0,1.0
-Louise Café,Hôtel des Invalides,1.8295048416810005,1.0,1.0
-Louise Café,Galerie Butte Montmartre,3.6759872700125906,1.0,1.0
-Louise Café,tucked friperie,2.3005716593015912,1.0,1.0
-Louise Café,Chinemachine,3.7338159460728986,1.0,1.0
-Louise Café,Shakespeare and Company,0.7330086277702677,1.0,1.0
-Louise Café,Palace of Versailles,16.73305715915965,1.0,1.0
-Louise Café,Le Train Bleu,2.8864068836883554,1.0,1.0
-Louise Café,La Poule au Pot,1.3566037311525951,1.0,1.0
-Dumbo,Louise Café,2.0490687081215118,1.0,1.0
-Dumbo,Le Bistro Marbeuf,2.9593005524607725,1.0,1.0
-Dumbo,Untucked friperie,2.447499113480994,1.0,1.0
-Dumbo,Café Kitsuné Louvre,0.9423893574564824,1.0,1.0
-Dumbo,BO&MIE,1.22417372146101,1.0,1.0
-Dumbo,Plaza Athénée,2.9062466199589654,1.0,1.0
-Dumbo,Bistrot Paul Bert,3.30136680176422,1.0,1.0
-Chez Alain Miam Miam,Bibliothèque Nationale de France - Richelieu,1.7127019343967764,1.0,1.0
-Chez Alain Miam Miam,L'As du Fallafel,0.6159319577808146,1.0,1.0
-Chez Alain Miam Miam,Dumbo,1.5619039321673565,1.0,1.0
-Chez Alain Miam Miam,Hôtel des Invalides,3.52910601267949,1.0,1.0
-Chez Alain Miam Miam,Galerie Butte Montmartre,2.994603427083071,1.0,1.0
-Chez Alain Miam Miam,tucked friperie,0.46953935910658473,1.0,1.0
-Chez Alain Miam Miam,Chinemachine,3.0258298019952736,1.0,1.0
-Chez Alain Miam Miam,Shakespeare and Company,1.4547683627090031,1.0,1.0
-Chez Alain Miam Miam,Palace of Versailles,18.670169344584107,1.0,1.0
-Chez Alain Miam Miam,Le Train Bleu,2.298021009060865,1.0,1.0
-Chez Alain Miam Miam,La Poule au Pot,0.6791734645646406,1.0,1.0
-Le Bistro Marbeuf,Louise Café,2.934273844377039,1.0,1.0
-Le Bistro Marbeuf,Chez Alain Miam Miam,4.1993725502126065,1.0,1.0
-Le Bistro Marbeuf,Untucked friperie,5.002285633557052,1.0,1.0
-Le Bistro Marbeuf,Café Kitsuné Louvre,2.5172848603048004,1.0,1.0
-Le Bistro Marbeuf,BO&MIE,3.502158925019262,1.0,1.0
-Le Bistro Marbeuf,Plaza Athénée,0.1330962646466486,1.0,1.0
-Le Bistro Marbeuf,Bistrot Paul Bert,5.815421267858054,1.0,1.0
-Hôtel des Invalides,Bibliothèque Nationale de France - Richelieu,2.3173384763494376,1.0,1.0
-Hôtel des Invalides,L'As du Fallafel,3.3949129753263803,1.0,1.0
-Hôtel des Invalides,Dumbo,2.7402434116817753,1.0,1.0
-Hôtel des Invalides,Le Bistro Marbeuf,1.3529599343303726,1.0,1.0
-Hôtel des Invalides,Galerie Butte Montmartre,3.834480357096482,1.0,1.0
-Hôtel des Invalides,tucked friperie,3.937103049505976,1.0,1.0
-Hôtel des Invalides,Chinemachine,3.9009879939422007,1.0,1.0
-Hôtel des Invalides,Shakespeare and Company,2.555812173059742,1.0,1.0
-Hôtel des Invalides,Palace of Versailles,15.197875461315189,1.0,1.0
-Hôtel des Invalides,Le Train Bleu,4.706001345894399,1.0,1.0
-Hôtel des Invalides,La Poule au Pot,2.8515162703050714,1.0,1.0
-Galerie Butte Montmartre,Bibliothèque Nationale de France - Richelieu,1.9378988624640374,1.0,1.0
-Galerie Butte Montmartre,L'As du Fallafel,3.511333036645072,1.0,1.0
-Galerie Butte Montmartre,Dumbo,1.682290039119258,1.0,1.0
-Galerie Butte Montmartre,Le Bistro Marbeuf,3.432951328663604,1.0,1.0
-Galerie Butte Montmartre,tucked friperie,3.368009519065042,1.0,1.0
-Galerie Butte Montmartre,Chinemachine,0.06654019952433185,1.0,1.0
-Galerie Butte Montmartre,Shakespeare and Company,3.7490354881875207,1.0,1.0
-Galerie Butte Montmartre,Palace of Versailles,18.42697142732288,1.0,1.0
-Galerie Butte Montmartre,Le Train Bleu,5.29112148326887,1.0,1.0
-Galerie Butte Montmartre,La Poule au Pot,2.8939420226533423,1.0,1.0
-tucked friperie,Bibliothèque Nationale de France - Richelieu,2.1818810344058335,1.0,1.0
-tucked friperie,L'As du Fallafel,0.6782864190418901,1.0,1.0
-tucked friperie,Dumbo,2.0166304729457045,1.0,1.0
-tucked friperie,Le Bistro Marbeuf,4.656457032266769,1.0,1.0
-tucked friperie,Chinemachine,3.39380618916512,1.0,1.0
-tucked friperie,Shakespeare and Company,1.6747042541334523,1.0,1.0
-tucked friperie,Palace of Versailles,19.02819918855048,1.0,1.0
-tucked friperie,Le Train Bleu,1.9788625843576333,1.0,1.0
-tucked friperie,La Poule au Pot,1.0973071630898514,1.0,1.0
-Untucked friperie,Louise Café,2.477529069202263,1.0,1.0
-Untucked friperie,Chez Alain Miam Miam,0.8863077086363116,1.0,1.0
-Untucked friperie,Hôtel des Invalides,4.202223522943763,1.0,1.0
-Untucked friperie,Galerie Butte Montmartre,3.808915190961517,1.0,1.0
-Untucked friperie,tucked friperie,0.44374273908465234,1.0,1.0
-Untucked friperie,Café Kitsuné Louvre,2.490349437765061,1.0,1.0
-Untucked friperie,BO&MIE,1.5006662256294194,1.0,1.0
-Untucked friperie,Plaza Athénée,4.909320723263764,1.0,1.0
-Untucked friperie,Bistrot Paul Bert,0.8562031964267077,1.0,1.0
-Chinemachine,Bibliothèque Nationale de France - Richelieu,1.9957557163005073,1.0,1.0
-Chinemachine,L'As du Fallafel,3.548351641050309,1.0,1.0
-Chinemachine,Dumbo,1.7331903865625724,1.0,1.0
-Chinemachine,Le Bistro Marbeuf,3.4960423034897588,1.0,1.0
-Chinemachine,Untucked friperie,3.833789726295572,1.0,1.0
-Chinemachine,Shakespeare and Company,3.7993701341267916,1.0,1.0
-Chinemachine,Palace of Versailles,18.486042611851225,1.0,1.0
-Chinemachine,Le Train Bleu,5.323318058890006,1.0,1.0
-Chinemachine,La Poule au Pot,2.9376170161784403,1.0,1.0
-Shakespeare and Company,Bibliothèque Nationale de France - Richelieu,1.8846523286474361,1.0,1.0
-Shakespeare and Company,L'As du Fallafel,1.0050756789115682,1.0,1.0
-Shakespeare and Company,Dumbo,2.066804856108653,1.0,1.0
-Shakespeare and Company,Le Bistro Marbeuf,3.595111307971586,1.0,1.0
-Shakespeare and Company,Untucked friperie,1.786650792466913,1.0,1.0
-Shakespeare and Company,Palace of Versailles,17.414697695920086,1.0,1.0
-Shakespeare and Company,Le Train Bleu,2.1949198724542414,1.0,1.0
-Shakespeare and Company,La Poule au Pot,0.9788073788268518,1.0,1.0
-Café Kitsuné Louvre,Louise Café,1.16754672976836,1.0,1.0
-Café Kitsuné Louvre,Chez Alain Miam Miam,1.6861408601125287,1.0,1.0
-Café Kitsuné Louvre,Hôtel des Invalides,1.9428955070608966,1.0,1.0
-Café Kitsuné Louvre,Galerie Butte Montmartre,2.511487539184576,1.0,1.0
-Café Kitsuné Louvre,tucked friperie,2.1395436015785263,1.0,1.0
-Café Kitsuné Louvre,Chinemachine,2.5702606578449596,1.0,1.0
-Café Kitsuné Louvre,Shakespeare and Company,1.4157029898635314,1.0,1.0
-Café Kitsuné Louvre,BO&MIE,0.9907733858322912,1.0,1.0
-Café Kitsuné Louvre,Plaza Athénée,2.4298488378556886,1.0,1.0
-Café Kitsuné Louvre,Bistrot Paul Bert,3.318381386945758,1.0,1.0
-Palace of Versailles,Bibliothèque Nationale de France - Richelieu,17.46350594109968,1.0,1.0
-Palace of Versailles,L'As du Fallafel,18.40072980802915,1.0,1.0
-Palace of Versailles,Dumbo,17.872775250511786,1.0,1.0
-Palace of Versailles,Le Bistro Marbeuf,15.043052124847819,1.0,1.0
-Palace of Versailles,Untucked friperie,19.20036162765712,1.0,1.0
-Palace of Versailles,Café Kitsuné Louvre,17.140444729968937,1.0,1.0
-Palace of Versailles,Le Train Bleu,19.06763037954725,1.0,1.0
-Palace of Versailles,La Poule au Pot,17.994553940992674,1.0,1.0
-BO&MIE,Louise Café,1.3022521370904407,1.0,1.0
-BO&MIE,Chez Alain Miam Miam,0.7503010520011,1.0,1.0
-BO&MIE,Hôtel des Invalides,2.7794724694669655,1.0,1.0
-BO&MIE,Galerie Butte Montmartre,2.874469601495928,1.0,1.0
-BO&MIE,tucked friperie,1.1704609737012832,1.0,1.0
-BO&MIE,Chinemachine,2.919352440067385,1.0,1.0
-BO&MIE,Shakespeare and Company,0.9594775858580349,1.0,1.0
-BO&MIE,Palace of Versailles,17.925916003454496,1.0,1.0
-BO&MIE,Plaza Athénée,3.4105289930384775,1.0,1.0
-BO&MIE,Bistrot Paul Bert,2.328702824103835,1.0,1.0
-Le Train Bleu,Bibliothèque Nationale de France - Richelieu,3.7719829828315388,1.0,1.0
-Le Train Bleu,L'As du Fallafel,1.8149812329338824,1.0,1.0
-Le Train Bleu,Dumbo,3.76258877603691,1.0,1.0
-Le Train Bleu,Le Bistro Marbeuf,5.7899444792415435,1.0,1.0
-Le Train Bleu,Untucked friperie,1.5840022063442096,1.0,1.0
-Le Train Bleu,Café Kitsuné Louvre,3.468404201187447,1.0,1.0
-Le Train Bleu,BO&MIE,2.5800746985831844,1.0,1.0
-Le Train Bleu,La Poule au Pot,2.5308458011549937,1.0,1.0
-Plaza Athénée,Louise Café,2.8138371600404346,1.0,1.0
-Plaza Athénée,Chez Alain Miam Miam,4.114793319250288,1.0,1.0
-Plaza Athénée,Hôtel des Invalides,1.2199595479978218,1.0,1.0
-Plaza Athénée,Galerie Butte Montmartre,3.4463147632113813,1.0,1.0
-Plaza Athénée,tucked friperie,4.569260437992111,1.0,1.0
-Plaza Athénée,Chinemachine,3.5101661480867214,1.0,1.0
-Plaza Athénée,Shakespeare and Company,3.4807605677345403,1.0,1.0
-Plaza Athénée,Palace of Versailles,15.057735962807978,1.0,1.0
-Plaza Athénée,Le Train Bleu,5.675637651526539,1.0,1.0
-Plaza Athénée,Bistrot Paul Bert,5.7176780032236945,1.0,1.0
-La Poule au Pot,Bibliothèque Nationale de France - Richelieu,1.2450720578876486,1.0,1.0
-La Poule au Pot,L'As du Fallafel,0.7350857651759581,1.0,1.0
-La Poule au Pot,Dumbo,1.256525949684734,1.0,1.0
-La Poule au Pot,Le Bistro Marbeuf,3.573995909685536,1.0,1.0
-La Poule au Pot,Untucked friperie,1.4294330663182127,1.0,1.0
-La Poule au Pot,Café Kitsuné Louvre,1.0611854907490197,1.0,1.0
-La Poule au Pot,BO&MIE,0.07315381099060397,1.0,1.0
-La Poule au Pot,Plaza Athénée,3.4827210493921297,1.0,1.0
-Bistrot Paul Bert,Louise Café,3.1480495827822708,1.0,1.0
-Bistrot Paul Bert,Chez Alain Miam Miam,1.7418808056624502,1.0,1.0
-Bistrot Paul Bert,Hôtel des Invalides,4.939595927011071,1.0,1.0
-Bistrot Paul Bert,Galerie Butte Montmartre,4.606554325365494,1.0,1.0
-Bistrot Paul Bert,tucked friperie,1.2864245228082762,1.0,1.0
-Bistrot Paul Bert,Chinemachine,4.626701153977641,1.0,1.0
-Bistrot Paul Bert,Shakespeare and Company,2.419460456389144,1.0,1.0
-Bistrot Paul Bert,Palace of Versailles,19.771445460284166,1.0,1.0
-Bistrot Paul Bert,Le Train Bleu,1.1954818412800587,1.0,1.0
-Bistrot Paul Bert,La Poule au Pot,2.2598839285711625,1.0,1.0
-Bibliothèque Nationale de France - Richelieu,The Basilica of the Sacred Heart of Paris (Sacré-Cœur),2.0405475091332685,1.0,
-Bibliothèque Nationale de France - Richelieu,Boutique of the French Comédie,0.6082543518651844,1.0,
-L'As du Fallafel,The Basilica of the Sacred Heart of Paris (Sacré-Cœur),3.5012507321608934,1.0,
-L'As du Fallafel,Boutique of the French Comédie,1.9876098932456747,1.0,
-Dumbo,The Basilica of the Sacred Heart of Paris (Sacré-Cœur),1.7457756643945657,1.0,
-Dumbo,Boutique of the French Comédie,1.0194157984836396,1.0,
-Le Bistro Marbeuf,The Basilica of the Sacred Heart of Paris (Sacré-Cœur),3.6603618151089488,1.0,
-Le Bistro Marbeuf,Boutique of the French Comédie,2.291969965529205,1.0,
-Galerie Butte Montmartre,The Basilica of the Sacred Heart of Paris (Sacré-Cœur),0.23965421903432996,1.0,
-tucked friperie,The Basilica of the Sacred Heart of Paris (Sacré-Cœur),3.3123153063590145,1.0,
-tucked friperie,Boutique of the French Comédie,2.3645011828756086,1.0,
-Chinemachine,The Basilica of the Sacred Heart of Paris (Sacré-Cœur),0.19139899023282422,1.0,
-Chinemachine,Boutique of the French Comédie,2.5466456527751045,1.0,
-Shakespeare and Company,The Basilica of the Sacred Heart of Paris (Sacré-Cœur),3.802461461655701,1.0,
-Shakespeare and Company,Boutique of the French Comédie,1.5847282542947874,1.0,
-Palace of Versailles,The Basilica of the Sacred Heart of Paris (Sacré-Cœur),18.662839559732785,1.0,
-Palace of Versailles,Boutique of the French Comédie,16.95895159623495,1.0,
-Le Train Bleu,The Basilica of the Sacred Heart of Paris (Sacré-Cœur),5.258562843514592,1.0,
-Le Train Bleu,Boutique of the French Comédie,3.6756614667037124,1.0,
-La Poule au Pot,The Basilica of the Sacred Heart of Paris (Sacré-Cœur),2.915530585769705,1.0,
-La Poule au Pot,Boutique of the French Comédie,1.287541780114911,1.0,
-The Basilica of the Sacred Heart of Paris (Sacré-Cœur),hotelF1 Paris Porte de Châtillon,7.457851957031487,,3.0
-The Basilica of the Sacred Heart of Paris (Sacré-Cœur),Eiffel Tower,4.747272922201924,,3.0
-The Basilica of the Sacred Heart of Paris (Sacré-Cœur),Arc de Triomphe,3.7985864249119263,,3.0
-The Basilica of the Sacred Heart of Paris (Sacré-Cœur),Palais Garnier,1.858014522000197,,3.0
-The Basilica of the Sacred Heart of Paris (Sacré-Cœur),La Meringaie Martyrs,0.8856990824739435,,3.0
-Boutique of the French Comédie,hotelF1 Paris Porte de Châtillon,4.850060512021347,,3.0
-Boutique of the French Comédie,Eiffel Tower,2.955896587065472,,3.0
-Boutique of the French Comédie,Arc de Triomphe,3.0536044196132104,,3.0
-Boutique of the French Comédie,La Meringaie Martyrs,1.7246862270894217,,3.0
-The Basilica of the Sacred Heart of Paris (Sacré-Cœur),La Belle Hortense,3.4248885731950507,,2.0
-The Basilica of the Sacred Heart of Paris (Sacré-Cœur),Montmartre,0.0,,2.0
-The Basilica of the Sacred Heart of Paris (Sacré-Cœur),Le Procope,3.710469014138395,,2.0
-The Basilica of the Sacred Heart of Paris (Sacré-Cœur),Notre Dame,3.8003502350795384,,2.0
-The Basilica of the Sacred Heart of Paris (Sacré-Cœur),Bontemps La Pâtisserie,3.5392014914600267,,2.0
-The Basilica of the Sacred Heart of Paris (Sacré-Cœur),Boulangerie Utopie,3.20021405096648,,2.0
-The Basilica of the Sacred Heart of Paris (Sacré-Cœur),Fou de Pâtisserie,2.8852108645063477,,2.0
-The Basilica of the Sacred Heart of Paris (Sacré-Cœur),Cedric Grolet Café,2.089500821047915,,2.0
-The Basilica of the Sacred Heart of Paris (Sacré-Cœur),Chapon et la Chocolaterie de l'Eglise,4.137726076681545,,2.0
-Boutique of the French Comédie,La Belle Hortense,1.8986509518828756,,2.0
-Boutique of the French Comédie,Galeries Lafayette Haussmann,1.099485179306137,,2.0
-Boutique of the French Comédie,Sainte-Chapelle,1.226578906362678,,2.0
-Boutique of the French Comédie,Le Procope,1.203659729453492,,2.0
-Boutique of the French Comédie,Notre Dame,1.7418273319324735,,2.0
-Boutique of the French Comédie,Bontemps La Pâtisserie,2.089019667629311,,2.0
-Boutique of the French Comédie,Boulangerie Utopie,2.6333793163213355,,2.0
-Boutique of the French Comédie,Fou de Pâtisserie,1.381554527429573,,2.0
-Boutique of the French Comédie,Cedric Grolet Café,0.7285042029818786,,2.0
-Boutique of the French Comédie,Chapon et la Chocolaterie de l'Eglise,1.5293895249479086,,2.0
-The Basilica of the Sacred Heart of Paris (Sacré-Cœur),Louise Café,3.773735986278601,,1.0
-The Basilica of the Sacred Heart of Paris (Sacré-Cœur),Chez Alain Miam Miam,2.9611891222863647,,1.0
-The Basilica of the Sacred Heart of Paris (Sacré-Cœur),Hôtel des Invalides,4.022223917957569,,1.0
-The Basilica of the Sacred Heart of Paris (Sacré-Cœur),Untucked friperie,3.74899823133337,,1.0
-The Basilica of the Sacred Heart of Paris (Sacré-Cœur),Café Kitsuné Louvre,2.6180113645457364,,1.0
-The Basilica of the Sacred Heart of Paris (Sacré-Cœur),BO&MIE,2.9019230460776155,,1.0
-The Basilica of the Sacred Heart of Paris (Sacré-Cœur),Plaza Athénée,3.6707439935161705,,1.0
-The Basilica of the Sacred Heart of Paris (Sacré-Cœur),Bistrot Paul Bert,4.52823808543154,,1.0
-Boutique of the French Comédie,Louise Café,1.2426784975880907,,1.0
-Boutique of the French Comédie,Chez Alain Miam Miam,1.9092131722064252,,1.0
-Boutique of the French Comédie,Hôtel des Invalides,1.7685875826081017,,1.0
-Boutique of the French Comédie,Galerie Butte Montmartre,2.4853314399771884,,1.0
-Boutique of the French Comédie,Untucked friperie,2.7167320850575383,,1.0
-Boutique of the French Comédie,Café Kitsuné Louvre,0.22638265382288866,,1.0
-Boutique of the French Comédie,BO&MIE,1.2170355706206275,,1.0
-Boutique of the French Comédie,Plaza Athénée,2.2056789018134326,,1.0
-Boutique of the French Comédie,Bistrot Paul Bert,3.544159629053919,,1.0
-The Basilica of the Sacred Heart of Paris (Sacré-Cœur),Boutique of the French Comédie,2.6103846676298623,,
+hotelF1 Paris Porte de Châtillon,Eiffel Tower,4.229553747658143,3,3
+hotelF1 Paris Porte de Châtillon,Arc de Triomphe,5.864416730500148,3,3
+hotelF1 Paris Porte de Châtillon,Yann Couvreur Rosiers,5.16502380757612,3,3
+hotelF1 Paris Porte de Châtillon,Des Gâteaux et du Pain,3.169649330071553,3,3
+hotelF1 Paris Porte de Châtillon,L'Eclair de Génie Café,4.965114260250166,3,3
+hotelF1 Paris Porte de Châtillon,Pierre Hermé,4.840719889323884,3,3
+hotelF1 Paris Porte de Châtillon,Stohrer,5.026508354937715,3,3
+hotelF1 Paris Porte de Châtillon,Ritz Paris Le Comptoir,5.167939371677874,3,3
+hotelF1 Paris Porte de Châtillon,Louvre Museum,4.586175560079568,3,3
+Musée de l'Orangerie,Eiffel Tower,2.1415201500613614,3,3
+Musée de l'Orangerie,Arc de Triomphe,2.3047134238567635,3,3
+Musée de l'Orangerie,Yann Couvreur Rosiers,2.8242309193002573,3,3
+Musée de l'Orangerie,Des Gâteaux et du Pain,1.5445028639912697,3,3
+Musée de l'Orangerie,L'Eclair de Génie Café,1.1256693461349883,3,3
+Musée de l'Orangerie,Pierre Hermé,0.8830776889685236,3,3
+Musée de l'Orangerie,Stohrer,1.7960722755258365,3,3
+Musée de l'Orangerie,Ritz Paris Le Comptoir,0.6116576351995205,3,3
+Musée de l'Orangerie,Louvre Museum,1.153531891036395,3,3
+Eiffel Tower,Musée de l'Orangerie,2.1415201500613614,3,3
+Eiffel Tower,Arc de Triomphe,1.712792387543609,3,3
+Eiffel Tower,Yann Couvreur Rosiers,4.7929113486806205,3,3
+Eiffel Tower,Des Gâteaux et du Pain,2.4190892434562854,3,3
+Eiffel Tower,L'Eclair de Génie Café,1.3746655851361738,3,3
+Eiffel Tower,Pierre Hermé,1.4734426400672211,3,3
+Eiffel Tower,Stohrer,3.8614413517755297,3,3
+Eiffel Tower,Ritz Paris Le Comptoir,2.672950680639324,3,3
+Eiffel Tower,Louvre Museum,3.162499285009591,3,3
+Arc de Triomphe,Musée de l'Orangerie,2.3047134238567635,3,3
+Arc de Triomphe,Yann Couvreur Rosiers,5.088307575949246,3,3
+Arc de Triomphe,Des Gâteaux et du Pain,3.437993479828189,3,3
+Arc de Triomphe,L'Eclair de Génie Café,1.2148194089589741,3,3
+Arc de Triomphe,Pierre Hermé,1.456618137993216,3,3
+Arc de Triomphe,Stohrer,4.023433650640933,3,3
+Arc de Triomphe,Ritz Paris Le Comptoir,2.4982777529231797,3,3
+Arc de Triomphe,Louvre Museum,3.444358164560184,3,3
+Palais Garnier,Musée de l'Orangerie,1.106647210669032,3,3
+Palais Garnier,Yann Couvreur Rosiers,2.6161112686459016,3,3
+Palais Garnier,Des Gâteaux et du Pain,2.4716648006491675,3,3
+Palais Garnier,L'Eclair de Génie Café,1.8067743681299955,3,3
+Palais Garnier,Pierre Hermé,1.6389547355630008,3,3
+Palais Garnier,Stohrer,1.5672671365203916,3,3
+Palais Garnier,Ritz Paris Le Comptoir,0.49786662654389746,3,3
+Palais Garnier,Louvre Museum,1.3204516309459065,3,3
+Yann Couvreur Rosiers,Musée de l'Orangerie,2.8242309193002573,3,3
+Yann Couvreur Rosiers,Palais Garnier,2.6161112686459016,3,3
+Yann Couvreur Rosiers,Des Gâteaux et du Pain,2.6931310136612674,3,3
+Yann Couvreur Rosiers,L'Eclair de Génie Café,3.9478548242911713,3,3
+Yann Couvreur Rosiers,Pierre Hermé,3.7069987209817414,3,3
+Yann Couvreur Rosiers,Stohrer,1.074626731605842,3,3
+Yann Couvreur Rosiers,Ritz Paris Le Comptoir,2.615855040378036,3,3
+Yann Couvreur Rosiers,Louvre Museum,1.674571252278972,3,3
+Des Gâteaux et du Pain,Musée de l'Orangerie,1.5445028639912697,3,3
+Des Gâteaux et du Pain,Palais Garnier,2.4716648006491675,3,3
+Des Gâteaux et du Pain,L'Eclair de Génie Café,2.262745735021528,3,3
+Des Gâteaux et du Pain,Pierre Hermé,2.0528710610358694,3,3
+Des Gâteaux et du Pain,Stohrer,2.0907163062887437,3,3
+Des Gâteaux et du Pain,Ritz Paris Le Comptoir,2.0135054413345688,3,3
+Des Gâteaux et du Pain,Louvre Museum,1.4963450601159998,3,3
+L'Eclair de Génie Café,Musée de l'Orangerie,1.1256693461349883,3,3
+L'Eclair de Génie Café,Palais Garnier,1.8067743681299955,3,3
+L'Eclair de Génie Café,Pierre Hermé,0.24600212858644466,3,3
+L'Eclair de Génie Café,Stohrer,2.9064704352381807,3,3
+L'Eclair de Génie Café,Ritz Paris Le Comptoir,1.4671061127343592,3,3
+L'Eclair de Génie Café,Louvre Museum,2.2791819353686225,3,3
+La Meringaie Martyrs,Musée de l'Orangerie,2.1157011419671057,3,3
+La Meringaie Martyrs,Palais Garnier,1.0091328360269323,3,3
+La Meringaie Martyrs,Pierre Hermé,2.5667284926505523,3,3
+La Meringaie Martyrs,Stohrer,1.9584200410666996,3,3
+La Meringaie Martyrs,Ritz Paris Le Comptoir,1.5054268266424584,3,3
+La Meringaie Martyrs,Louvre Museum,2.0535031185616957,3,3
+Pierre Hermé,Musée de l'Orangerie,0.8830776889685236,3,3
+Pierre Hermé,Palais Garnier,1.6389547355630008,3,3
+Pierre Hermé,La Meringaie Martyrs,2.5667284926505523,3,3
+Pierre Hermé,Stohrer,2.6706769922850344,3,3
+Pierre Hermé,Ritz Paris Le Comptoir,1.2631960190879448,3,3
+Pierre Hermé,Louvre Museum,2.036341943223596,3,3
+Stohrer,Musée de l'Orangerie,1.7960722755258365,3,3
+Stohrer,Palais Garnier,1.5672671365203916,3,3
+Stohrer,La Meringaie Martyrs,1.9584200410666996,3,3
+Stohrer,Ritz Paris Le Comptoir,1.5416519457791527,3,3
+Stohrer,Louvre Museum,0.7050426654239594,3,3
+Ritz Paris Le Comptoir,Musée de l'Orangerie,0.6116576351995205,3,3
+Ritz Paris Le Comptoir,Palais Garnier,0.49786662654389746,3,3
+Ritz Paris Le Comptoir,La Meringaie Martyrs,1.5054268266424584,3,3
+Ritz Paris Le Comptoir,Louvre Museum,1.0817564759752414,3,3
+Louvre Museum,Musée de l'Orangerie,1.153531891036395,3,3
+Louvre Museum,Palais Garnier,1.3204516309459065,3,3
+Louvre Museum,La Meringaie Martyrs,2.0535031185616957,3,3
+hotelF1 Paris Porte de Châtillon,La Belle Hortense,5.069992782596706,3,2
+hotelF1 Paris Porte de Châtillon,Galeries Lafayette Haussmann,5.861037648333291,3,2
+hotelF1 Paris Porte de Châtillon,Sainte-Chapelle,4.300860716789219,3,2
+hotelF1 Paris Porte de Châtillon,Episode,5.167512579622694,3,2
+Musée de l'Orangerie,Galeries Lafayette Haussmann,1.307341028473433,3,2
+Musée de l'Orangerie,Sainte-Chapelle,1.8545060613662774,3,2
+Musée de l'Orangerie,Episode,2.165804118007678,3,2
+Eiffel Tower,Galeries Lafayette Haussmann,3.2336210360913182,3,2
+Eiffel Tower,Sainte-Chapelle,3.673168980162979,3,2
+Eiffel Tower,Episode,4.220532370810731,3,2
+Arc de Triomphe,Jardin du Luxembourg,4.3530618544114,3,2
+Arc de Triomphe,Galeries Lafayette Haussmann,2.7059987058046784,3,2
+Arc de Triomphe,Sainte-Chapelle,4.158922711918351,3,2
+Arc de Triomphe,Episode,4.387816558955353,3,2
+Palais Garnier,Jardin du Luxembourg,2.8759191811193663,3,2
+Palais Garnier,Montmartre,1.858014522000197,3,2
+Palais Garnier,Sainte-Chapelle,2.053278481316083,3,2
+Palais Garnier,Episode,1.8810366638751381,3,2
+Yann Couvreur Rosiers,Jardin du Luxembourg,2.0884753906615696,3,2
+Yann Couvreur Rosiers,Montmartre,3.4741998895742303,3,2
+Yann Couvreur Rosiers,Le Procope,1.6698845967978004,3,2
+Yann Couvreur Rosiers,Notre Dame,0.8453893097982423,3,2
+Yann Couvreur Rosiers,Bontemps La Pâtisserie,0.06655184761658998,3,2
+Des Gâteaux et du Pain,Jardin du Luxembourg,0.9876565928801535,3,2
+Des Gâteaux et du Pain,Montmartre,4.290227380275149,3,2
+Des Gâteaux et du Pain,Le Procope,1.0277145711424245,3,2
+Des Gâteaux et du Pain,Notre Dame,1.9150724270903228,3,2
+Des Gâteaux et du Pain,Bontemps La Pâtisserie,2.7114710202033954,3,2
+Des Gâteaux et du Pain,Boulangerie Utopie,3.6416869399944183,3,2
+L'Eclair de Génie Café,Jardin du Luxembourg,3.1484891192460247,3,2
+L'Eclair de Génie Café,Montmartre,3.374517247420648,3,2
+L'Eclair de Génie Café,Le Procope,2.658923097111028,3,2
+L'Eclair de Génie Café,Notre Dame,3.501658872059413,3,2
+L'Eclair de Génie Café,Bontemps La Pâtisserie,3.998231849903638,3,2
+L'Eclair de Génie Café,Boulangerie Utopie,4.547380347133278,3,2
+L'Eclair de Génie Café,Fou de Pâtisserie,3.312085785525863,3,2
+La Meringaie Martyrs,Jardin du Luxembourg,3.6529404631484335,3,2
+La Meringaie Martyrs,Montmartre,0.8856990824739432,3,2
+La Meringaie Martyrs,Le Procope,2.839241997134871,3,2
+La Meringaie Martyrs,Notre Dame,3.0077842172729903,3,2
+La Meringaie Martyrs,Bontemps La Pâtisserie,2.869260733768877,3,2
+La Meringaie Martyrs,Boulangerie Utopie,2.7561352009398656,3,2
+La Meringaie Martyrs,Fou de Pâtisserie,2.149983750435636,3,2
+Pierre Hermé,Jardin du Luxembourg,2.919159775606251,3,2
+Pierre Hermé,Montmartre,3.287676985737868,3,2
+Pierre Hermé,Le Procope,2.4152323731807344,3,2
+Pierre Hermé,Notre Dame,3.255660097935194,3,2
+Pierre Hermé,Bontemps La Pâtisserie,3.7568218875301054,3,2
+Pierre Hermé,Boulangerie Utopie,4.321455878214092,3,2
+Pierre Hermé,Fou de Pâtisserie,3.0766785359142865,3,2
+Stohrer,Jardin du Luxembourg,1.8975575389744053,3,2
+Stohrer,Montmartre,2.761285120696511,3,2
+Stohrer,Le Procope,1.1518887515195453,3,2
+Stohrer,Notre Dame,1.0493688513223272,3,2
+Stohrer,Bontemps La Pâtisserie,1.1333461464041223,3,2
+Stohrer,Boulangerie Utopie,1.6971045737407884,3,2
+Stohrer,Fou de Pâtisserie,0.4061631423876655,3,2
+Stohrer,Cedric Grolet Café,1.528916175647685,3,2
+Ritz Paris Le Comptoir,Jardin du Luxembourg,2.515757407120957,3,2
+Ritz Paris Le Comptoir,Montmartre,2.3543725094742887,3,2
+Ritz Paris Le Comptoir,Le Procope,1.77052248637779,3,2
+Ritz Paris Le Comptoir,Notre Dame,2.366677237946606,3,2
+Ritz Paris Le Comptoir,Bontemps La Pâtisserie,2.673619935291223,3,2
+Ritz Paris Le Comptoir,Boulangerie Utopie,3.1041832264746385,3,2
+Ritz Paris Le Comptoir,Fou de Pâtisserie,1.9323914443215482,3,2
+Ritz Paris Le Comptoir,Cedric Grolet Café,0.26618851271371,3,2
+Louvre Museum,Jardin du Luxembourg,1.6014743748550049,3,2
+Louvre Museum,Montmartre,2.929930581516645,3,2
+Louvre Museum,Le Procope,0.7900261548391062,3,2
+Louvre Museum,Notre Dame,1.2906123637085407,3,2
+Louvre Museum,Bontemps La Pâtisserie,1.722456914912669,3,2
+Louvre Museum,Boulangerie Utopie,2.400085255861875,3,2
+Louvre Museum,Fou de Pâtisserie,1.0945751703322948,3,2
+Louvre Museum,Cedric Grolet Café,1.18387455282883,3,2
+Louvre Museum,Chapon et la Chocolaterie de l'Eglise,1.2531768583118568,3,2
+hotelF1 Paris Porte de Châtillon,Louise Café,3.7993261953717856,3,1
+hotelF1 Paris Porte de Châtillon,Chez Alain Miam Miam,5.59579629709899,3,1
+hotelF1 Paris Porte de Châtillon,Hôtel des Invalides,3.792453212320969,3,1
+hotelF1 Paris Porte de Châtillon,Galerie Butte Montmartre,7.320298323842896,3,1
+hotelF1 Paris Porte de Châtillon,tucked friperie,5.747362951287786,3,1
+hotelF1 Paris Porte de Châtillon,Chinemachine,7.383604068601477,3,1
+hotelF1 Paris Porte de Châtillon,Shakespeare and Company,4.144596572085555,3,1
+hotelF1 Paris Porte de Châtillon,Palace of Versailles,14.281388878839259,3,1
+hotelF1 Paris Porte de Châtillon,Le Train Bleu,5.025943330459245,3,1
+hotelF1 Paris Porte de Châtillon,La Poule au Pot,5.081160686344288,3,1
+Musée de l'Orangerie,Bibliothèque Nationale de France - Richelieu,1.2796485037299237,3,1
+Musée de l'Orangerie,Louise Café,1.5974891218355485,3,1
+Musée de l'Orangerie,Chez Alain Miam Miam,2.739651200173928,3,1
+Musée de l'Orangerie,Hôtel des Invalides,1.0844957484693007,3,1
+Musée de l'Orangerie,Galerie Butte Montmartre,2.7772183006294657,3,1
+Musée de l'Orangerie,tucked friperie,3.190016585169695,3,1
+Musée de l'Orangerie,Chinemachine,2.84339661494067,3,1
+Musée de l'Orangerie,Shakespeare and Company,2.176555267122029,3,1
+Musée de l'Orangerie,Palace of Versailles,16.18399171788433,3,1
+Musée de l'Orangerie,Le Train Bleu,4.35771856331736,3,1
+Musée de l'Orangerie,La Poule au Pot,2.100710461636464,3,1
+Eiffel Tower,Bibliothèque Nationale de France - Richelieu,3.4125962233120353,3,1
+Eiffel Tower,Louise Café,3.1668124444460477,3,1
+Eiffel Tower,Chez Alain Miam Miam,4.813266514496452,3,1
+Eiffel Tower,Hôtel des Invalides,1.3392176611300617,3,1
+Eiffel Tower,Galerie Butte Montmartre,4.526873108939121,3,1
+Eiffel Tower,tucked friperie,5.2386167864937505,3,1
+Eiffel Tower,Chinemachine,4.5914631301796565,3,1
+Eiffel Tower,Shakespeare and Company,3.8947648785634157,3,1
+Eiffel Tower,Palace of Versailles,14.063696832947924,3,1
+Eiffel Tower,Le Train Bleu,6.033224417698156,3,1
+Eiffel Tower,La Poule au Pot,4.143396143754587,3,1
+Arc de Triomphe,Bibliothèque Nationale de France - Richelieu,3.2336576181872663,3,1
+Arc de Triomphe,L'As du Fallafel,5.040387853936664,3,1
+Arc de Triomphe,Dumbo,3.5243622594293402,3,1
+Arc de Triomphe,Le Bistro Marbeuf,0.9560815087363667,3,1
+Arc de Triomphe,Galerie Butte Montmartre,3.559335176680976,3,1
+Arc de Triomphe,tucked friperie,5.384763541208129,3,1
+Arc de Triomphe,Chinemachine,3.6145073630347277,3,1
+Arc de Triomphe,Shakespeare and Company,4.475058086363536,3,1
+Arc de Triomphe,Palace of Versailles,14.898915554378174,3,1
+Arc de Triomphe,Le Train Bleu,6.661935631967345,3,1
+Arc de Triomphe,La Poule au Pot,4.336325333172932,3,1
+Palais Garnier,Bibliothèque Nationale de France - Richelieu,0.6174956310028816,3,1
+Palais Garnier,L'As du Fallafel,2.593339548275064,3,1
+Palais Garnier,Dumbo,0.8385120691306114,3,1
+Palais Garnier,Le Bistro Marbeuf,2.158865689717734,3,1
+Palais Garnier,The Basilica of the Sacred Heart of Paris,1.858014522000197,3,1
+Palais Garnier,tucked friperie,2.78810582779641,3,1
+Palais Garnier,Chinemachine,1.7593713149168575,3,1
+Palais Garnier,Shakespeare and Company,2.4139337109326235,3,1
+Palais Garnier,Palace of Versailles,17.15397128737247,3,1
+Palais Garnier,Le Train Bleu,4.379212490542813,3,1
+Palais Garnier,La Poule au Pot,1.8589840561639968,3,1
+Yann Couvreur Rosiers,Bibliothèque Nationale de France - Richelieu,1.9992313054805146,3,1
+Yann Couvreur Rosiers,L'As du Fallafel,0.09188775707945375,3,1
+Yann Couvreur Rosiers,Dumbo,1.949300555874563,3,1
+Yann Couvreur Rosiers,Le Bistro Marbeuf,4.301391447667114,3,1
+Yann Couvreur Rosiers,The Basilica of the Sacred Heart of Paris,3.4741998895742303,3,1
+Yann Couvreur Rosiers,Boutique of the French Comedie,2.034706066460305,3,1
+Yann Couvreur Rosiers,Untucked friperie,0.7336951562200081,3,1
+Yann Couvreur Rosiers,Café Kitsuné Louvre,1.8100012987260754,3,1
+Yann Couvreur Rosiers,Le Train Bleu,1.8173374732880692,3,1
+Yann Couvreur Rosiers,La Poule au Pot,0.764828748446849,3,1
+Des Gâteaux et du Pain,Bibliothèque Nationale de France - Richelieu,2.2919272959382244,3,1
+Des Gâteaux et du Pain,L'As du Fallafel,2.606533352903632,3,1
+Des Gâteaux et du Pain,Dumbo,2.6807789061218394,3,1
+Des Gâteaux et du Pain,Le Bistro Marbeuf,2.4826721636780524,3,1
+Des Gâteaux et du Pain,The Basilica of the Sacred Heart of Paris,4.290227380275149,3,1
+Des Gâteaux et du Pain,Boutique of the French Comedie,1.6902497609886598,3,1
+Des Gâteaux et du Pain,Untucked friperie,3.4104389629599767,3,1
+Des Gâteaux et du Pain,Café Kitsuné Louvre,1.739005402886675,3,1
+Des Gâteaux et du Pain,Le Train Bleu,3.6470819348729395,3,1
+Des Gâteaux et du Pain,La Poule au Pot,2.2615209971671586,3,1
+L'Eclair de Génie Café,Bibliothèque Nationale de France - Richelieu,2.237971006402033,3,1
+L'Eclair de Génie Café,L'As du Fallafel,3.892951825941308,3,1
+L'Eclair de Génie Café,Dumbo,2.59832567875989,3,1
+L'Eclair de Génie Café,Le Bistro Marbeuf,0.36572520533474157,3,1
+L'Eclair de Génie Café,The Basilica of the Sacred Heart of Paris,3.374517247420648,3,1
+L'Eclair de Génie Café,Boutique of the French Comedie,1.9308621884855037,3,1
+L'Eclair de Génie Café,Untucked friperie,4.644498278494279,3,1
+L'Eclair de Génie Café,Café Kitsuné Louvre,2.1566856924609135,3,1
+L'Eclair de Génie Café,Le Train Bleu,5.464145707431847,3,1
+L'Eclair de Génie Café,La Poule au Pot,3.2154028334700477,3,1
+La Meringaie Martyrs,Bibliothèque Nationale de France - Richelieu,1.1616189677585245,3,1
+La Meringaie Martyrs,L'As du Fallafel,2.813480171694311,3,1
+La Meringaie Martyrs,Dumbo,0.916216309955781,3,1
+La Meringaie Martyrs,Le Bistro Marbeuf,3.0171383685712128,3,1
+La Meringaie Martyrs,The Basilica of the Sacred Heart of Paris,0.8856990824739432,3,1
+La Meringaie Martyrs,Boutique of the French Comedie,1.7246862270894217,3,1
+La Meringaie Martyrs,Untucked friperie,3.2043017634799384,3,1
+La Meringaie Martyrs,Café Kitsuné Louvre,1.737431863824916,3,1
+La Meringaie Martyrs,Le Train Bleu,4.618708493427706,3,1
+La Meringaie Martyrs,La Poule au Pot,2.157158591012972,3,1
+Pierre Hermé,Bibliothèque Nationale de France - Richelieu,2.032146818843903,3,1
+Pierre Hermé,L'As du Fallafel,3.651174117197897,3,1
+Pierre Hermé,Dumbo,2.4056976137872903,3,1
+Pierre Hermé,Le Bistro Marbeuf,0.5956372757765601,3,1
+Pierre Hermé,The Basilica of the Sacred Heart of Paris,3.287676985737868,3,1
+Pierre Hermé,Boutique of the French Comedie,1.6970379175560166,3,1
+Pierre Hermé,Untucked friperie,4.406707680965094,3,1
+Pierre Hermé,Café Kitsuné Louvre,1.9220653865679767,3,1
+Pierre Hermé,Le Train Bleu,5.218183708759984,3,1
+Pierre Hermé,La Poule au Pot,2.978358660362784,3,1
+Stohrer,Bibliothèque Nationale de France - Richelieu,0.9618562344628673,3,1
+Stohrer,L'As du Fallafel,1.039118428095249,3,1
+Stohrer,Dumbo,1.0426476446903903,3,1
+Stohrer,Le Bistro Marbeuf,3.266209408146114,3,1
+Stohrer,The Basilica of the Sacred Heart of Paris,2.761285120696511,3,1
+Stohrer,Boutique of the French Comedie,0.976619217932731,3,1
+Stohrer,Untucked friperie,1.7403663509155907,3,1
+Stohrer,Café Kitsuné Louvre,0.7502868016021079,3,1
+Stohrer,Le Train Bleu,2.8122078346726576,3,1
+Stohrer,La Poule au Pot,0.3130276057401654,3,1
+Ritz Paris Le Comptoir,Bibliothèque Nationale de France - Richelieu,0.7708954056936805,3,1
+Ritz Paris Le Comptoir,L'As du Fallafel,2.5765375326946027,3,1
+Ritz Paris Le Comptoir,Dumbo,1.146713936206118,3,1
+Ritz Paris Le Comptoir,Le Bistro Marbeuf,1.8319854269310987,3,1
+Ritz Paris Le Comptoir,The Basilica of the Sacred Heart of Paris,2.3543725094742887,3,1
+Ritz Paris Le Comptoir,Boutique of the French Comedie,0.6248550057583616,3,1
+Ritz Paris Le Comptoir,Untucked friperie,3.2673670158038903,3,1
+Ritz Paris Le Comptoir,Café Kitsuné Louvre,0.8269007928460438,3,1
+Ritz Paris Le Comptoir,BO&MIE,1.787625616983994,3,1
+Ritz Paris Le Comptoir,Le Train Bleu,4.295094488075659,3,1
+Ritz Paris Le Comptoir,La Poule au Pot,1.853749784798226,3,1
+Louvre Museum,Bibliothèque Nationale de France - Richelieu,0.8919921663308956,3,1
+Louvre Museum,L'As du Fallafel,1.6159272005879697,3,1
+Louvre Museum,Dumbo,1.222024214408201,3,1
+Louvre Museum,Le Bistro Marbeuf,2.629125926131605,3,1
+Louvre Museum,The Basilica of the Sacred Heart of Paris,2.929930581516645,3,1
+Louvre Museum,Boutique of the French Comedie,0.4607418171808093,3,1
+Louvre Museum,Untucked friperie,2.3878303935711247,3,1
+Louvre Museum,Café Kitsuné Louvre,0.32543864780118886,3,1
+Louvre Museum,BO&MIE,0.9082006598171708,3,1
+Louvre Museum,Plaza Athénée,2.530137324801126,3,1
+Louvre Museum,Bistrot Paul Bert,3.1875834632579694,3,1
+La Belle Hortense,Eiffel Tower,4.646627726970304,2,3
+La Belle Hortense,Arc de Triomphe,4.951883465126504,2,3
+La Belle Hortense,Yann Couvreur Rosiers,0.14631785280002133,2,3
+La Belle Hortense,Des Gâteaux et du Pain,2.5543967089605926,2,3
+La Belle Hortense,L'Eclair de Génie Café,3.8070868658796315,2,3
+La Belle Hortense,Pierre Hermé,3.565723799721231,2,3
+La Belle Hortense,Stohrer,0.9475962961645497,2,3
+La Belle Hortense,Ritz Paris Le Comptoir,2.4857917240525422,2,3
+La Belle Hortense,Louvre Museum,1.53168746737171,2,3
+Jardin du Luxembourg,Musée de l'Orangerie,2.229565907558598,2,3
+Jardin du Luxembourg,Arc de Triomphe,4.3530618544114,2,3
+Jardin du Luxembourg,Yann Couvreur Rosiers,2.0884753906615696,2,3
+Jardin du Luxembourg,Des Gâteaux et du Pain,0.9876565928801535,2,3
+Jardin du Luxembourg,L'Eclair de Génie Café,3.1484891192460247,2,3
+Jardin du Luxembourg,Pierre Hermé,2.919159775606251,2,3
+Jardin du Luxembourg,Stohrer,1.8975575389744053,2,3
+Jardin du Luxembourg,Ritz Paris Le Comptoir,2.515757407120957,2,3
+Jardin du Luxembourg,Louvre Museum,1.6014743748550049,2,3
+Montmartre,Musée de l'Orangerie,2.9549361215639265,2,3
+Montmartre,Yann Couvreur Rosiers,3.4741998895742303,2,3
+Montmartre,Des Gâteaux et du Pain,4.290227380275149,2,3
+Montmartre,L'Eclair de Génie Café,3.374517247420648,2,3
+Montmartre,Pierre Hermé,3.287676985737868,2,3
+Montmartre,Stohrer,2.761285120696511,2,3
+Montmartre,Ritz Paris Le Comptoir,2.3543725094742887,2,3
+Montmartre,Louvre Museum,2.929930581516645,2,3
+Galeries Lafayette Haussmann,Musée de l'Orangerie,1.307341028473433,2,3
+Galeries Lafayette Haussmann,Yann Couvreur Rosiers,2.7349322826138143,2,3
+Galeries Lafayette Haussmann,Des Gâteaux et du Pain,2.6955247726131377,2,3
+Galeries Lafayette Haussmann,L'Eclair de Génie Café,1.911287642163475,2,3
+Galeries Lafayette Haussmann,Pierre Hermé,1.763918397261728,2,3
+Galeries Lafayette Haussmann,Stohrer,1.7103677292092612,2,3
+Galeries Lafayette Haussmann,Ritz Paris Le Comptoir,0.7081844780633993,2,3
+Galeries Lafayette Haussmann,Louvre Museum,1.5238564586950072,2,3
+Sainte-Chapelle,Musée de l'Orangerie,1.8545060613662774,2,3
+Sainte-Chapelle,Palais Garnier,2.053278481316083,2,3
+Sainte-Chapelle,Yann Couvreur Rosiers,1.1577795362984005,2,3
+Sainte-Chapelle,Des Gâteaux et du Pain,1.5479400880761955,2,3
+Sainte-Chapelle,L'Eclair de Génie Café,2.9653319986871454,2,3
+Sainte-Chapelle,Pierre Hermé,2.7193794103691324,2,3
+Sainte-Chapelle,Stohrer,0.7563327590014821,2,3
+Sainte-Chapelle,Ritz Paris Le Comptoir,1.8492857504960423,2,3
+Sainte-Chapelle,Louvre Museum,0.7675581388717544,2,3
+Episode,Musée de l'Orangerie,2.165804118007678,2,3
+Episode,Palais Garnier,1.8810366638751381,2,3
+Episode,Yann Couvreur Rosiers,0.7350811106230688,2,3
+Episode,Des Gâteaux et du Pain,2.353131427931865,2,3
+Episode,L'Eclair de Génie Café,3.276147131149626,2,3
+Episode,Pierre Hermé,3.040596410177709,2,3
+Episode,Stohrer,0.369964957701025,2,3
+Episode,Ritz Paris Le Comptoir,1.8985212012117283,2,3
+Episode,Louvre Museum,1.0581567831484586,2,3
+Le Procope,Musée de l'Orangerie,1.6065509639407423,2,3
+Le Procope,Palais Garnier,2.088029336701942,2,3
+Le Procope,Yann Couvreur Rosiers,1.6698845967978004,2,3
+Le Procope,Des Gâteaux et du Pain,1.0277145711424245,2,3
+Le Procope,L'Eclair de Génie Café,2.658923097111028,2,3
+Le Procope,Pierre Hermé,2.4152323731807344,2,3
+Le Procope,Stohrer,1.1518887515195453,2,3
+Le Procope,Ritz Paris Le Comptoir,1.77052248637779,2,3
+Le Procope,Louvre Museum,0.7900261548391062,2,3
+Notre Dame,Musée de l'Orangerie,2.3927317893475557,2,3
+Notre Dame,Palais Garnier,2.5277102043915955,2,3
+Notre Dame,Yann Couvreur Rosiers,0.8453893097982423,2,3
+Notre Dame,Des Gâteaux et du Pain,1.9150724270903228,2,3
+Notre Dame,L'Eclair de Génie Café,3.501658872059413,2,3
+Notre Dame,Pierre Hermé,3.255660097935194,2,3
+Notre Dame,Stohrer,1.0493688513223272,2,3
+Notre Dame,Ritz Paris Le Comptoir,2.366677237946606,2,3
+Notre Dame,Louvre Museum,1.2906123637085407,2,3
+Bontemps La Pâtisserie,Musée de l'Orangerie,2.8738179039352425,2,3
+Bontemps La Pâtisserie,Palais Garnier,2.679044807676262,2,3
+Bontemps La Pâtisserie,Yann Couvreur Rosiers,0.06655184761658998,2,3
+Bontemps La Pâtisserie,Des Gâteaux et du Pain,2.7114710202033954,2,3
+Bontemps La Pâtisserie,L'Eclair de Génie Café,3.998231849903638,2,3
+Bontemps La Pâtisserie,Pierre Hermé,3.7568218875301054,2,3
+Bontemps La Pâtisserie,Stohrer,1.1333461464041223,2,3
+Bontemps La Pâtisserie,Ritz Paris Le Comptoir,2.673619935291223,2,3
+Bontemps La Pâtisserie,Louvre Museum,1.722456914912669,2,3
+Boulangerie Utopie,Musée de l'Orangerie,3.467360989988806,2,3
+Boulangerie Utopie,Palais Garnier,2.939582837011258,2,3
+Boulangerie Utopie,Des Gâteaux et du Pain,3.6416869399944183,2,3
+Boulangerie Utopie,L'Eclair de Génie Café,4.547380347133278,2,3
+Boulangerie Utopie,Pierre Hermé,4.321455878214092,2,3
+Boulangerie Utopie,Stohrer,1.6971045737407884,2,3
+Boulangerie Utopie,Ritz Paris Le Comptoir,3.1041832264746385,2,3
+Boulangerie Utopie,Louvre Museum,2.400085255861875,2,3
+Fou de Pâtisserie,Musée de l'Orangerie,2.2021281515194002,2,3
+Fou de Pâtisserie,Palais Garnier,1.9101785367540307,2,3
+Fou de Pâtisserie,L'Eclair de Génie Café,3.312085785525863,2,3
+Fou de Pâtisserie,Pierre Hermé,3.0766785359142865,2,3
+Fou de Pâtisserie,Stohrer,0.4061631423876655,2,3
+Fou de Pâtisserie,Ritz Paris Le Comptoir,1.9323914443215482,2,3
+Fou de Pâtisserie,Louvre Museum,1.0945751703322948,2,3
+Cedric Grolet Café,Musée de l'Orangerie,0.876505619562119,2,3
+Cedric Grolet Café,Palais Garnier,0.23185068349988078,2,3
+Cedric Grolet Café,La Meringaie Martyrs,1.2395033572104281,2,3
+Cedric Grolet Café,Stohrer,1.528916175647685,2,3
+Cedric Grolet Café,Ritz Paris Le Comptoir,0.26618851271371,2,3
+Cedric Grolet Café,Louvre Museum,1.18387455282883,2,3
+Chapon et la Chocolaterie de l'Eglise,Musée de l'Orangerie,1.5748699069473522,2,3
+Chapon et la Chocolaterie de l'Eglise,Palais Garnier,2.3713422963485273,2,3
+Chapon et la Chocolaterie de l'Eglise,La Meringaie Martyrs,3.2523806586941313,2,3
+Chapon et la Chocolaterie de l'Eglise,Louvre Museum,1.2531768583118568,2,3
+La Belle Hortense,Galeries Lafayette Haussmann,2.62716618524274,2,2
+La Belle Hortense,Sainte-Chapelle,1.0148946644112924,2,2
+La Belle Hortense,Episode,0.6248950444714799,2,2
+Jardin du Luxembourg,Galeries Lafayette Haussmann,3.0924663100273575,2,2
+Jardin du Luxembourg,Sainte-Chapelle,1.154041572195884,2,2
+Jardin du Luxembourg,Episode,2.0166518770438238,2,2
+Montmartre,Jardin du Luxembourg,4.524025497184619,2,2
+Montmartre,Galeries Lafayette Haussmann,1.6481485952758637,2,2
+Montmartre,Sainte-Chapelle,3.4819071251424707,2,2
+Montmartre,Episode,2.876717109026131,2,2
+Galeries Lafayette Haussmann,Jardin du Luxembourg,3.0924663100273575,2,2
+Galeries Lafayette Haussmann,Montmartre,1.6481485952758637,2,2
+Galeries Lafayette Haussmann,Sainte-Chapelle,2.2410064281339395,2,2
+Galeries Lafayette Haussmann,Episode,2.0026532108193402,2,2
+Sainte-Chapelle,Jardin du Luxembourg,1.154041572195884,2,2
+Sainte-Chapelle,Montmartre,3.4819071251424707,2,2
+Sainte-Chapelle,Episode,0.8724261938190253,2,2
+Episode,Jardin du Luxembourg,2.0166518770438238,2,2
+Episode,Montmartre,2.876717109026131,2,2
+Le Procope,Jardin du Luxembourg,0.8138308450358136,2,2
+Le Procope,Montmartre,3.710469014138395,2,2
+Notre Dame,Jardin du Luxembourg,1.2430995856994904,2,2
+Notre Dame,Montmartre,3.8003502350795375,2,2
+Notre Dame,Le Procope,0.9388881334634936,2,2
+Bontemps La Pâtisserie,Jardin du Luxembourg,2.085312819351256,2,2
+Bontemps La Pâtisserie,Montmartre,3.5392014914600267,2,2
+Bontemps La Pâtisserie,Le Procope,1.691529503893377,2,2
+Bontemps La Pâtisserie,Notre Dame,0.8434966311616565,2,2
+Boulangerie Utopie,Jardin du Luxembourg,3.110659396504088,2,2
+Boulangerie Utopie,Montmartre,3.2002140509664794,2,2
+Boulangerie Utopie,Le Procope,2.6160224552060134,2,2
+Boulangerie Utopie,Notre Dame,1.869860271235289,2,2
+Boulangerie Utopie,Bontemps La Pâtisserie,1.0434711282554836,2,2
+Fou de Pâtisserie,Jardin du Luxembourg,2.036528314688317,2,2
+Fou de Pâtisserie,Montmartre,2.885210864506348,2,2
+Fou de Pâtisserie,Le Procope,1.384421172125168,2,2
+Fou de Pâtisserie,Notre Dame,0.9643301404816709,2,2
+Fou de Pâtisserie,Bontemps La Pâtisserie,0.7699973930274059,2,2
+Fou de Pâtisserie,Boulangerie Utopie,1.3099821005984755,2,2
+Cedric Grolet Café,Jardin du Luxembourg,2.698350159012734,2,2
+Cedric Grolet Café,Montmartre,2.089500821047915,2,2
+Cedric Grolet Café,Le Procope,1.9257903081893855,2,2
+Cedric Grolet Café,Notre Dame,2.4352968998463678,2,2
+Cedric Grolet Café,Bontemps La Pâtisserie,2.6584366692331165,2,2
+Cedric Grolet Café,Boulangerie Utopie,3.0009049037192543,2,2
+Cedric Grolet Café,Fou de Pâtisserie,1.8978919999581179,2,2
+Chapon et la Chocolaterie de l'Eglise,Jardin du Luxembourg,0.7114612323541117,2,2
+Chapon et la Chocolaterie de l'Eglise,Montmartre,4.137726076681545,2,2
+Chapon et la Chocolaterie de l'Eglise,Le Procope,0.6737185642054593,2,2
+Chapon et la Chocolaterie de l'Eglise,Notre Dame,1.5451029651839567,2,2
+Chapon et la Chocolaterie de l'Eglise,Bontemps La Pâtisserie,2.3456446108464934,2,2
+Chapon et la Chocolaterie de l'Eglise,Boulangerie Utopie,3.288927876133039,2,2
+Chapon et la Chocolaterie de l'Eglise,Fou de Pâtisserie,2.0508070922099346,2,2
+Chapon et la Chocolaterie de l'Eglise,Cedric Grolet Café,2.168301069568902,2,2
+La Belle Hortense,Bibliothèque Nationale de France - Richelieu,1.8863033706906802,2,1
+La Belle Hortense,Louise Café,1.6158348472284123,2,1
+La Belle Hortense,Chez Alain Miam Miam,0.5749039644448509,2,1
+La Belle Hortense,Hôtel des Invalides,3.322952366526361,2,1
+La Belle Hortense,Galerie Butte Montmartre,3.4316245065828745,2,1
+La Belle Hortense,tucked friperie,0.7028381690833462,2,1
+La Belle Hortense,Chinemachine,3.469374061777396,2,1
+La Belle Hortense,Shakespeare and Company,0.9718797074209234,2,1
+La Belle Hortense,Palace of Versailles,18.348833170771215,2,1
+La Belle Hortense,Le Train Bleu,1.9036637837528019,2,1
+La Belle Hortense,La Poule au Pot,0.6431980083038596,2,1
+Jardin du Luxembourg,Bibliothèque Nationale de France - Richelieu,2.492581462282141,2,1
+Jardin du Luxembourg,L'As du Fallafel,1.9965885786122441,2,1
+Jardin du Luxembourg,Dumbo,2.7900873310990217,2,1
+Jardin du Luxembourg,Le Bistro Marbeuf,3.4073011374301756,2,1
+Jardin du Luxembourg,Galerie Butte Montmartre,4.430294727071508,2,1
+Jardin du Luxembourg,tucked friperie,2.6736347607753403,2,1
+Jardin du Luxembourg,Chinemachine,4.487651964556483,2,1
+Jardin du Luxembourg,Shakespeare and Company,1.0102656030385184,2,1
+Jardin du Luxembourg,Palace of Versailles,16.522026121221113,2,1
+Jardin du Luxembourg,Le Train Bleu,2.7040037296130928,2,1
+Jardin du Luxembourg,La Poule au Pot,1.9307294040533827,2,1
+Montmartre,Bibliothèque Nationale de France - Richelieu,2.0405475091332685,2,1
+Montmartre,L'As du Fallafel,3.5012507321608934,2,1
+Montmartre,Dumbo,1.7457756643945657,2,1
+Montmartre,Le Bistro Marbeuf,3.6603618151089488,2,1
+Montmartre,The Basilica of the Sacred Heart of Paris,0.0,2,1
+Montmartre,tucked friperie,3.3123153063590145,2,1
+Montmartre,Chinemachine,0.19139899023282422,2,1
+Montmartre,Shakespeare and Company,3.802461461655701,2,1
+Montmartre,Palace of Versailles,18.662839559732785,2,1
+Montmartre,Le Train Bleu,5.258562843514592,2,1
+Montmartre,La Poule au Pot,2.915530585769705,2,1
+Galeries Lafayette Haussmann,Bibliothèque Nationale de France - Richelieu,0.7485578587222708,2,1
+Galeries Lafayette Haussmann,L'As du Fallafel,2.7185007292474697,2,1
+Galeries Lafayette Haussmann,Dumbo,0.8626530735338539,2,1
+Galeries Lafayette Haussmann,Le Bistro Marbeuf,2.251805933997252,2,1
+Galeries Lafayette Haussmann,The Basilica of the Sacred Heart of Paris,1.6481485952758637,2,1
+Galeries Lafayette Haussmann,tucked friperie,2.8653965686770517,2,1
+Galeries Lafayette Haussmann,Chinemachine,1.5429155543690385,2,1
+Galeries Lafayette Haussmann,Shakespeare and Company,2.6001910213054398,2,1
+Galeries Lafayette Haussmann,Palace of Versailles,17.277533215667557,2,1
+Galeries Lafayette Haussmann,Le Train Bleu,4.518938489298532,2,1
+Galeries Lafayette Haussmann,La Poule au Pot,1.9892609262994716,2,1
+Sainte-Chapelle,Bibliothèque Nationale de France - Richelieu,1.5319932285418607,2,1
+Sainte-Chapelle,L'As du Fallafel,1.0756473065895338,2,1
+Sainte-Chapelle,Dumbo,1.7381077841645374,2,1
+Sainte-Chapelle,Le Bistro Marbeuf,3.298523045287209,2,1
+Sainte-Chapelle,The Basilica of the Sacred Heart of Paris,3.4819071251424707,2,1
+Sainte-Chapelle,tucked friperie,1.6916687690773458,2,1
+Sainte-Chapelle,Chinemachine,3.4705151718995353,2,1
+Sainte-Chapelle,Shakespeare and Company,0.3610987536297227,2,1
+Sainte-Chapelle,Palace of Versailles,17.338362086046306,2,1
+Sainte-Chapelle,Le Train Bleu,2.5032167848036404,2,1
+Sainte-Chapelle,La Poule au Pot,0.7834986563158793,2,1
+Episode,Bibliothèque Nationale de France - Richelieu,1.2642920346338689,2,1
+Episode,L'As du Fallafel,0.7159735828332,2,1
+Episode,Dumbo,1.2446919606312508,2,1
+Episode,Le Bistro Marbeuf,3.636104361050297,2,1
+Episode,The Basilica of the Sacred Heart of Paris,2.876717109026131,2,1
+Episode,Boutique of the French Comedie,1.3457470905235867,2,1
+Episode,Untucked friperie,1.373109228666247,2,1
+Episode,Chinemachine,2.904317538830904,2,1
+Episode,Shakespeare and Company,1.0550759441162894,2,1
+Episode,Palace of Versailles,18.082423854229177,2,1
+Episode,Le Train Bleu,2.5253792939752673,2,1
+Episode,La Poule au Pot,0.09188310252662053,2,1
+Le Procope,Bibliothèque Nationale de France - Richelieu,1.6794417467244938,2,1
+Le Procope,L'As du Fallafel,1.5849314692406256,2,1
+Le Procope,Dumbo,1.9799875695366114,2,1
+Le Procope,Le Bistro Marbeuf,2.968022083412261,2,1
+Le Procope,The Basilica of the Sacred Heart of Paris,3.710469014138395,2,1
+Le Procope,Boutique of the French Comedie,1.203659729453492,2,1
+Le Procope,Untucked friperie,2.3940431126284123,2,1
+Le Procope,Chinemachine,3.6739855975949305,2,1
+Le Procope,Shakespeare and Company,0.6660500600691225,2,1
+Le Procope,Palace of Versailles,16.820138762662495,2,1
+Le Procope,Le Train Bleu,2.8380965670054445,2,1
+Le Procope,La Poule au Pot,1.264922202635908,2,1
+Notre Dame,Bibliothèque Nationale de France - Richelieu,1.9640042448239439,2,1
+Notre Dame,L'As du Fallafel,0.7535015529981334,2,1
+Notre Dame,Dumbo,2.0919473783089706,2,1
+Notre Dame,Le Bistro Marbeuf,3.8322234843905654,2,1
+Notre Dame,The Basilica of the Sacred Heart of Paris,3.8003502350795375,2,1
+Notre Dame,Boutique of the French Comedie,1.7418273319324735,2,1
+Notre Dame,Untucked friperie,1.5148606718729554,2,1
+Notre Dame,Shakespeare and Company,0.280024348081053,2,1
+Notre Dame,Palace of Versailles,17.6898364046006,2,1
+Notre Dame,Le Train Bleu,1.964994205792604,2,1
+Notre Dame,La Poule au Pot,0.9007977493499577,2,1
+Bontemps La Pâtisserie,Bibliothèque Nationale de France - Richelieu,2.0624431567863994,2,1
+Bontemps La Pâtisserie,L'As du Fallafel,0.10973948572747205,2,1
+Bontemps La Pâtisserie,Dumbo,2.0154650461163692,2,1
+Bontemps La Pâtisserie,Le Bistro Marbeuf,4.350753274311728,2,1
+Bontemps La Pâtisserie,The Basilica of the Sacred Heart of Paris,3.5392014914600267,2,1
+Bontemps La Pâtisserie,Boutique of the French Comedie,2.089019667629311,2,1
+Bontemps La Pâtisserie,Untucked friperie,0.7038486586329449,2,1
+Bontemps La Pâtisserie,Café Kitsuné Louvre,1.8648955910852736,2,1
+Bontemps La Pâtisserie,Le Train Bleu,1.750795567488367,2,1
+Bontemps La Pâtisserie,La Poule au Pot,0.8251294806994041,2,1
+Boulangerie Utopie,Bibliothèque Nationale de France - Richelieu,2.360192847658923,2,1
+Boulangerie Utopie,L'As du Fallafel,1.119550487349848,2,1
+Boulangerie Utopie,Dumbo,2.1227498450060795,2,1
+Boulangerie Utopie,Le Bistro Marbeuf,4.912204350072156,2,1
+Boulangerie Utopie,The Basilica of the Sacred Heart of Paris,3.2002140509664794,2,1
+Boulangerie Utopie,Boutique of the French Comedie,2.6333793163213355,2,1
+Boulangerie Utopie,Untucked friperie,0.667169559867028,2,1
+Boulangerie Utopie,Café Kitsuné Louvre,2.4145832721668525,2,1
+Boulangerie Utopie,Le Train Bleu,2.243072070147729,2,1
+Boulangerie Utopie,La Poule au Pot,1.429352056442005,2,1
+Fou de Pâtisserie,Bibliothèque Nationale de France - Richelieu,1.2930604358170814,2,1
+Fou de Pâtisserie,L'As du Fallafel,0.6902848361541887,2,1
+Fou de Pâtisserie,Dumbo,1.2644164196305954,2,1
+Fou de Pâtisserie,Le Bistro Marbeuf,3.6721629961721907,2,1
+Fou de Pâtisserie,The Basilica of the Sacred Heart of Paris,2.885210864506348,2,1
+Fou de Pâtisserie,Boutique of the French Comedie,1.381554527429573,2,1
+Fou de Pâtisserie,Untucked friperie,1.3380715373754941,2,1
+Fou de Pâtisserie,Café Kitsuné Louvre,1.1554537048675773,2,1
+Fou de Pâtisserie,Le Train Bleu,2.50222051811568,2,1
+Fou de Pâtisserie,La Poule au Pot,0.1230113319262672,2,1
+Cedric Grolet Café,Bibliothèque Nationale de France - Richelieu,0.6408980046619641,2,1
+Cedric Grolet Café,L'As du Fallafel,2.5670437596627607,2,1
+Cedric Grolet Café,Dumbo,0.9572988696984898,2,1
+Cedric Grolet Café,Le Bistro Marbeuf,2.0028326366955485,2,1
+Cedric Grolet Café,The Basilica of the Sacred Heart of Paris,2.089500821047915,2,1
+Cedric Grolet Café,Boutique of the French Comedie,0.7285042029818786,2,1
+Cedric Grolet Café,Untucked friperie,3.215867255543731,2,1
+Cedric Grolet Café,Café Kitsuné Louvre,0.8857507789515932,2,1
+Cedric Grolet Café,Le Train Bleu,4.326707172100948,2,1
+Cedric Grolet Café,La Poule au Pot,1.833326908737016,2,1
+Chapon et la Chocolaterie de l'Eglise,Bibliothèque Nationale de France - Richelieu,2.106499223986731,2,1
+Chapon et la Chocolaterie de l'Eglise,L'As du Fallafel,2.2414929597567608,2,1
+Chapon et la Chocolaterie de l'Eglise,Dumbo,2.4699212765455707,2,1
+Chapon et la Chocolaterie de l'Eglise,Le Bistro Marbeuf,2.6958789679327357,2,1
+Chapon et la Chocolaterie de l'Eglise,The Basilica of the Sacred Heart of Paris,4.137726076681545,2,1
+Chapon et la Chocolaterie de l'Eglise,Boutique of the French Comedie,1.5293895249479086,2,1
+Chapon et la Chocolaterie de l'Eglise,Untucked friperie,3.0430527264910796,2,1
+Chapon et la Chocolaterie de l'Eglise,Café Kitsuné Louvre,1.5335687496203514,2,1
+Chapon et la Chocolaterie de l'Eglise,BO&MIE,1.8719525691270724,2,1
+Chapon et la Chocolaterie de l'Eglise,Le Train Bleu,3.299780274554053,2,1
+Chapon et la Chocolaterie de l'Eglise,La Poule au Pot,1.929679540180804,2,1
+Bibliothèque Nationale de France - Richelieu,Eiffel Tower,3.4125962233120353,1,3
+Bibliothèque Nationale de France - Richelieu,Arc de Triomphe,3.2336576181872663,1,3
+Bibliothèque Nationale de France - Richelieu,Yann Couvreur Rosiers,1.9992313054805146,1,3
+Bibliothèque Nationale de France - Richelieu,Des Gâteaux et du Pain,2.2919272959382244,1,3
+Bibliothèque Nationale de France - Richelieu,L'Eclair de Génie Café,2.237971006402033,1,3
+Bibliothèque Nationale de France - Richelieu,Pierre Hermé,2.032146818843903,1,3
+Bibliothèque Nationale de France - Richelieu,Stohrer,0.9618562344628673,1,3
+Bibliothèque Nationale de France - Richelieu,Ritz Paris Le Comptoir,0.7708954056936805,1,3
+Bibliothèque Nationale de France - Richelieu,Louvre Museum,0.8919921663308956,1,3
+L'As du Fallafel,Musée de l'Orangerie,2.7681027111733334,1,3
+L'As du Fallafel,Arc de Triomphe,5.040387853936664,1,3
+L'As du Fallafel,Yann Couvreur Rosiers,0.09188775707945375,1,3
+L'As du Fallafel,Des Gâteaux et du Pain,2.606533352903632,1,3
+L'As du Fallafel,L'Eclair de Génie Café,3.892951825941308,1,3
+L'As du Fallafel,Pierre Hermé,3.651174117197897,1,3
+L'As du Fallafel,Stohrer,1.039118428095249,1,3
+L'As du Fallafel,Ritz Paris Le Comptoir,2.5765375326946027,1,3
+L'As du Fallafel,Louvre Museum,1.6159272005879697,1,3
+Louise Café,Musée de l'Orangerie,1.5974891218355485,1,3
+Louise Café,Arc de Triomphe,3.8455689547734506,1,3
+Louise Café,Yann Couvreur Rosiers,1.755551393801706,1,3
+Louise Café,Des Gâteaux et du Pain,0.9392467583304073,1,3
+Louise Café,L'Eclair de Génie Café,2.6313835721621484,1,3
+Louise Café,Pierre Hermé,2.3890135883534405,1,3
+Louise Café,Stohrer,1.2396499883699579,1,3
+Louise Café,Ritz Paris Le Comptoir,1.793167216968104,1,3
+Louise Café,Louvre Museum,0.8462207162408095,1,3
+Dumbo,Musée de l'Orangerie,1.6933600601951238,1,3
+Dumbo,Arc de Triomphe,3.5243622594293402,1,3
+Dumbo,Yann Couvreur Rosiers,1.949300555874563,1,3
+Dumbo,Des Gâteaux et du Pain,2.6807789061218394,1,3
+Dumbo,L'Eclair de Génie Café,2.59832567875989,1,3
+Dumbo,Pierre Hermé,2.4056976137872903,1,3
+Dumbo,Stohrer,1.0426476446903903,1,3
+Dumbo,Ritz Paris Le Comptoir,1.146713936206118,1,3
+Dumbo,Louvre Museum,1.222024214408201,1,3
+Chez Alain Miam Miam,Musée de l'Orangerie,2.739651200173928,1,3
+Chez Alain Miam Miam,Arc de Triomphe,4.917554344307813,1,3
+Chez Alain Miam Miam,Yann Couvreur Rosiers,0.5559746332220518,1,3
+Chez Alain Miam Miam,Des Gâteaux et du Pain,2.9135426612827544,1,3
+Chez Alain Miam Miam,L'Eclair de Génie Café,3.836484129053324,1,3
+Chez Alain Miam Miam,Pierre Hermé,3.605370624858968,1,3
+Chez Alain Miam Miam,Stohrer,0.9525996181415713,1,3
+Chez Alain Miam Miam,Ritz Paris Le Comptoir,2.4192985109300174,1,3
+Chez Alain Miam Miam,Louvre Museum,1.652190899272173,1,3
+Le Bistro Marbeuf,Musée de l'Orangerie,1.4771843710813586,1,3
+Le Bistro Marbeuf,Arc de Triomphe,0.9560815087363667,1,3
+Le Bistro Marbeuf,Yann Couvreur Rosiers,4.301391447667114,1,3
+Le Bistro Marbeuf,Des Gâteaux et du Pain,2.4826721636780524,1,3
+Le Bistro Marbeuf,L'Eclair de Génie Café,0.36572520533474157,1,3
+Le Bistro Marbeuf,Pierre Hermé,0.5956372757765601,1,3
+Le Bistro Marbeuf,Stohrer,3.266209408146114,1,3
+Le Bistro Marbeuf,Ritz Paris Le Comptoir,1.8319854269310987,1,3
+Le Bistro Marbeuf,Louvre Museum,2.629125926131605,1,3
+Hôtel des Invalides,Musée de l'Orangerie,1.0844957484693007,1,3
+Hôtel des Invalides,Arc de Triomphe,2.3054835001393386,1,3
+Hôtel des Invalides,Yann Couvreur Rosiers,3.469207955815991,1,3
+Hôtel des Invalides,Des Gâteaux et du Pain,1.1669130937550702,1,3
+Hôtel des Invalides,L'Eclair de Génie Café,1.204390987750775,1,3
+Hôtel des Invalides,Pierre Hermé,1.0517652815173746,1,3
+Hôtel des Invalides,Stohrer,2.587218744824799,1,3
+Hôtel des Invalides,Ritz Paris Le Comptoir,1.6958646785576086,1,3
+Hôtel des Invalides,Louvre Museum,1.8822392921796893,1,3
+The Basilica of the Sacred Heart of Paris,Musée de l'Orangerie,2.9549361215639265,1,3
+The Basilica of the Sacred Heart of Paris,Yann Couvreur Rosiers,3.4741998895742303,1,3
+The Basilica of the Sacred Heart of Paris,Des Gâteaux et du Pain,4.290227380275149,1,3
+The Basilica of the Sacred Heart of Paris,L'Eclair de Génie Café,3.374517247420648,1,3
+The Basilica of the Sacred Heart of Paris,Pierre Hermé,3.287676985737868,1,3
+The Basilica of the Sacred Heart of Paris,Stohrer,2.761285120696511,1,3
+The Basilica of the Sacred Heart of Paris,Ritz Paris Le Comptoir,2.3543725094742887,1,3
+The Basilica of the Sacred Heart of Paris,Louvre Museum,2.929930581516645,1,3
+Galerie Butte Montmartre,Musée de l'Orangerie,2.7772183006294657,1,3
+Galerie Butte Montmartre,Yann Couvreur Rosiers,3.4903559259285024,1,3
+Galerie Butte Montmartre,Des Gâteaux et du Pain,4.150649828504329,1,3
+Galerie Butte Montmartre,L'Eclair de Génie Café,3.1527825524972233,1,3
+Galerie Butte Montmartre,Pierre Hermé,3.0730476124934336,1,3
+Galerie Butte Montmartre,Stohrer,2.717338741719339,1,3
+Galerie Butte Montmartre,Ritz Paris Le Comptoir,2.185442156550187,1,3
+Galerie Butte Montmartre,Louvre Museum,2.8298001195642652,1,3
+Boutique of the French Comedie,Musée de l'Orangerie,0.8342016107527932,1,3
+Boutique of the French Comedie,Palais Garnier,0.8849071989149464,1,3
+Boutique of the French Comedie,Yann Couvreur Rosiers,2.034706066460305,1,3
+Boutique of the French Comedie,Des Gâteaux et du Pain,1.6902497609886598,1,3
+Boutique of the French Comedie,L'Eclair de Génie Café,1.9308621884855037,1,3
+Boutique of the French Comedie,Pierre Hermé,1.6970379175560166,1,3
+Boutique of the French Comedie,Stohrer,0.976619217932731,1,3
+Boutique of the French Comedie,Ritz Paris Le Comptoir,0.6248550057583616,1,3
+Boutique of the French Comedie,Louvre Museum,0.4607418171808093,1,3
+tucked friperie,Musée de l'Orangerie,3.190016585169695,1,3
+tucked friperie,Palais Garnier,2.78810582779641,1,3
+tucked friperie,Yann Couvreur Rosiers,0.5866255810664682,1,3
+tucked friperie,Des Gâteaux et du Pain,3.2394284127185626,1,3
+tucked friperie,L'Eclair de Génie Café,4.2948032703057795,1,3
+tucked friperie,Pierre Hermé,4.061491975008798,1,3
+tucked friperie,Stohrer,1.3943493126696078,1,3
+tucked friperie,Ritz Paris Le Comptoir,2.886573666566941,1,3
+tucked friperie,Louvre Museum,2.0780525724908743,1,3
+Untucked friperie,Musée de l'Orangerie,3.5269639063427656,1,3
+Untucked friperie,Palais Garnier,3.20070427648281,1,3
+Untucked friperie,Yann Couvreur Rosiers,0.7336951562200081,1,3
+Untucked friperie,Des Gâteaux et du Pain,3.4104389629599767,1,3
+Untucked friperie,L'Eclair de Génie Café,4.644498278494279,1,3
+Untucked friperie,Pierre Hermé,4.406707680965094,1,3
+Untucked friperie,Stohrer,1.7403663509155907,1,3
+Untucked friperie,Ritz Paris Le Comptoir,3.2673670158038903,1,3
+Untucked friperie,Louvre Museum,2.3878303935711247,1,3
+Chinemachine,Musée de l'Orangerie,2.84339661494067,1,3
+Chinemachine,Palais Garnier,1.7593713149168575,1,3
+Chinemachine,Yann Couvreur Rosiers,3.525959698789942,1,3
+Chinemachine,Des Gâteaux et du Pain,4.213985605004296,1,3
+Chinemachine,L'Eclair de Génie Café,3.2172150497174896,1,3
+Chinemachine,Pierre Hermé,3.13853299636379,1,3
+Chinemachine,Stohrer,2.765440003545258,1,3
+Chinemachine,Ritz Paris Le Comptoir,2.251068961736276,1,3
+Chinemachine,Louvre Museum,2.8877477925598196,1,3
+Shakespeare and Company,Musée de l'Orangerie,2.176555267122029,1,3
+Shakespeare and Company,Palais Garnier,2.4139337109326235,1,3
+Shakespeare and Company,Yann Couvreur Rosiers,1.0961214716943648,1,3
+Shakespeare and Company,Des Gâteaux et du Pain,1.6354519378626227,1,3
+Shakespeare and Company,L'Eclair de Génie Café,3.271674611848099,1,3
+Shakespeare and Company,Pierre Hermé,3.0259089251140963,1,3
+Shakespeare and Company,Stohrer,1.0452323104588155,1,3
+Shakespeare and Company,Ritz Paris Le Comptoir,2.2055063904674417,1,3
+Shakespeare and Company,Louvre Museum,1.1243913296999386,1,3
+Café Kitsuné Louvre,Musée de l'Orangerie,1.0538871783703756,1,3
+Café Kitsuné Louvre,Palais Garnier,1.0038850157762016,1,3
+Café Kitsuné Louvre,Yann Couvreur Rosiers,1.8100012987260754,1,3
+Café Kitsuné Louvre,Des Gâteaux et du Pain,1.739005402886675,1,3
+Café Kitsuné Louvre,L'Eclair de Génie Café,2.1566856924609135,1,3
+Café Kitsuné Louvre,Pierre Hermé,1.9220653865679767,1,3
+Café Kitsuné Louvre,Stohrer,0.7502868016021079,1,3
+Café Kitsuné Louvre,Ritz Paris Le Comptoir,0.8269007928460438,1,3
+Café Kitsuné Louvre,Louvre Museum,0.32543864780118886,1,3
+Palace of Versailles,Musée de l'Orangerie,16.18399171788433,1,3
+Palace of Versailles,Palais Garnier,17.15397128737247,1,3
+Palace of Versailles,Yann Couvreur Rosiers,18.48765002543869,1,3
+Palace of Versailles,Des Gâteaux et du Pain,15.794570453292787,1,3
+Palace of Versailles,L'Eclair de Génie Café,15.36908937252499,1,3
+Palace of Versailles,Pierre Hermé,15.516680406323072,1,3
+Palace of Versailles,Stohrer,17.759515152179965,1,3
+Palace of Versailles,Ritz Paris Le Comptoir,16.735969649021232,1,3
+Palace of Versailles,Louvre Museum,17.061812910254016,1,3
+BO&MIE,Musée de l'Orangerie,2.028395565054756,1,3
+BO&MIE,Palais Garnier,1.8037681193590631,1,3
+BO&MIE,La Meringaie Martyrs,2.130960470181536,1,3
+BO&MIE,Ritz Paris Le Comptoir,1.787625616983994,1,3
+BO&MIE,Louvre Museum,0.9082006598171708,1,3
+Le Train Bleu,Musée de l'Orangerie,4.35771856331736,1,3
+Le Train Bleu,Palais Garnier,4.379212490542813,1,3
+Le Train Bleu,La Meringaie Martyrs,4.618708493427706,1,3
+Le Train Bleu,Louvre Museum,3.2403813676391926,1,3
+Plaza Athénée,Musée de l'Orangerie,1.3823721567354639,1,3
+Plaza Athénée,Palais Garnier,2.119243257828541,1,3
+Plaza Athénée,La Meringaie Martyrs,3.0036477097566547,1,3
+Plaza Athénée,Louvre Museum,2.530137324801126,1,3
+La Poule au Pot,Musée de l'Orangerie,2.100710461636464,1,3
+La Poule au Pot,Palais Garnier,1.8589840561639968,1,3
+La Poule au Pot,La Meringaie Martyrs,2.157158591012972,1,3
+La Poule au Pot,Louvre Museum,0.9812735229590084,1,3
+Bistrot Paul Bert,Musée de l'Orangerie,4.338293382395476,1,3
+Bistrot Paul Bert,Palais Garnier,4.0561951339736115,1,3
+Bistrot Paul Bert,La Meringaie Martyrs,4.035861776128788,1,3
+Bistrot Paul Bert,Louvre Museum,3.1875834632579694,1,3
+Bibliothèque Nationale de France - Richelieu,La Belle Hortense,1.8863033706906802,1,2
+Bibliothèque Nationale de France - Richelieu,Galeries Lafayette Haussmann,0.7485578587222708,1,2
+Bibliothèque Nationale de France - Richelieu,Sainte-Chapelle,1.5319932285418607,1,2
+Bibliothèque Nationale de France - Richelieu,Episode,1.2642920346338689,1,2
+L'As du Fallafel,Galeries Lafayette Haussmann,2.7185007292474697,1,2
+L'As du Fallafel,Sainte-Chapelle,1.0756473065895338,1,2
+L'As du Fallafel,Episode,0.7159735828332,1,2
+Louise Café,Galeries Lafayette Haussmann,2.3415956061496455,1,2
+Louise Café,Sainte-Chapelle,0.6101811075591874,1,2
+Louise Café,Episode,1.4483041636334355,1,2
+Dumbo,Galeries Lafayette Haussmann,0.8626530735338539,1,2
+Dumbo,Sainte-Chapelle,1.7381077841645374,1,2
+Dumbo,Episode,1.2446919606312508,1,2
+Chez Alain Miam Miam,Galeries Lafayette Haussmann,2.4027402127753974,1,2
+Chez Alain Miam Miam,Sainte-Chapelle,1.3816958224314817,1,2
+Chez Alain Miam Miam,Episode,0.5956889704884636,1,2
+Le Bistro Marbeuf,Galeries Lafayette Haussmann,2.251805933997252,1,2
+Le Bistro Marbeuf,Sainte-Chapelle,3.298523045287209,1,2
+Le Bistro Marbeuf,Episode,3.636104361050297,1,2
+Hôtel des Invalides,Galeries Lafayette Haussmann,2.381512735603522,1,2
+Hôtel des Invalides,Sainte-Chapelle,2.3376510007298963,1,2
+Hôtel des Invalides,Episode,2.933417431084535,1,2
+The Basilica of the Sacred Heart of Paris,Jardin du Luxembourg,4.524025497184619,1,2
+The Basilica of the Sacred Heart of Paris,Galeries Lafayette Haussmann,1.6481485952758637,1,2
+The Basilica of the Sacred Heart of Paris,Sainte-Chapelle,3.4819071251424707,1,2
+The Basilica of the Sacred Heart of Paris,Episode,2.876717109026131,1,2
+Galerie Butte Montmartre,Jardin du Luxembourg,4.430294727071508,1,2
+Galerie Butte Montmartre,Galeries Lafayette Haussmann,1.4773422832665832,1,2
+Galerie Butte Montmartre,Sainte-Chapelle,3.4184458998118235,1,2
+Galerie Butte Montmartre,Episode,2.862149292761473,1,2
+Boutique of the French Comedie,Jardin du Luxembourg,1.9930681362975897,1,2
+Boutique of the French Comedie,Montmartre,2.6103846676298623,1,2
+Boutique of the French Comedie,Episode,1.3457470905235867,1,2
+tucked friperie,Jardin du Luxembourg,2.6736347607753403,1,2
+tucked friperie,Montmartre,3.3123153063590145,1,2
+tucked friperie,Episode,1.0256562235889257,1,2
+Untucked friperie,Jardin du Luxembourg,2.73513993232911,1,2
+Untucked friperie,Montmartre,3.74899823133337,1,2
+Untucked friperie,Episode,1.373109228666247,1,2
+Chinemachine,Jardin du Luxembourg,4.487651964556483,1,2
+Chinemachine,Montmartre,0.19139899023282422,1,2
+Chinemachine,Le Procope,3.6739855975949305,1,2
+Shakespeare and Company,Jardin du Luxembourg,1.0102656030385184,1,2
+Shakespeare and Company,Montmartre,3.802461461655701,1,2
+Shakespeare and Company,Le Procope,0.6660500600691225,1,2
+Shakespeare and Company,Notre Dame,0.280024348081053,1,2
+Café Kitsuné Louvre,Jardin du Luxembourg,1.9237278819866943,1,2
+Café Kitsuné Louvre,Montmartre,2.6180113645457364,1,2
+Café Kitsuné Louvre,Le Procope,1.1143532589585237,1,2
+Café Kitsuné Louvre,Notre Dame,1.551935545541851,1,2
+Palace of Versailles,Jardin du Luxembourg,16.522026121221113,1,2
+Palace of Versailles,Montmartre,18.662839559732785,1,2
+Palace of Versailles,Le Procope,16.820138762662495,1,2
+Palace of Versailles,Notre Dame,17.6898364046006,1,2
+BO&MIE,Jardin du Luxembourg,1.8934953322989936,1,2
+BO&MIE,Montmartre,2.9019230460776155,1,2
+BO&MIE,Le Procope,1.2108761831538142,1,2
+BO&MIE,Notre Dame,0.9025785244973039,1,2
+BO&MIE,Bontemps La Pâtisserie,0.8876242528952913,1,2
+BO&MIE,Boulangerie Utopie,1.5005807247583134,1,2
+BO&MIE,Fou de Pâtisserie,0.1911478333337721,1,2
+BO&MIE,Cedric Grolet Café,1.7724887389954798,1,2
+Le Train Bleu,Jardin du Luxembourg,2.7040037296130928,1,2
+Le Train Bleu,Montmartre,5.258562843514592,1,2
+Le Train Bleu,Le Procope,2.8380965670054445,1,2
+Le Train Bleu,Notre Dame,1.964994205792604,1,2
+Le Train Bleu,Bontemps La Pâtisserie,1.750795567488367,1,2
+Le Train Bleu,Boulangerie Utopie,2.243072070147729,1,2
+Le Train Bleu,Fou de Pâtisserie,2.50222051811568,1,2
+Le Train Bleu,Cedric Grolet Café,4.326707172100948,1,2
+Le Train Bleu,Chapon et la Chocolaterie de l'Eglise,3.299780274554053,1,2
+Plaza Athénée,Jardin du Luxembourg,3.278273132008225,1,2
+Plaza Athénée,Montmartre,3.6707439935161705,1,2
+Plaza Athénée,Le Procope,2.849305781139027,1,2
+Plaza Athénée,Notre Dame,3.720697591731373,1,2
+Plaza Athénée,Bontemps La Pâtisserie,4.252579123690389,1,2
+Plaza Athénée,Boulangerie Utopie,4.83288495568465,1,2
+Plaza Athénée,Fou de Pâtisserie,3.5828776938744173,1,2
+Plaza Athénée,Cedric Grolet Café,1.9530534012786862,1,2
+Plaza Athénée,Chapon et la Chocolaterie de l'Eglise,2.5668119915568006,1,2
+La Poule au Pot,Jardin du Luxembourg,1.9307294040533827,1,2
+La Poule au Pot,Montmartre,2.915530585769705,1,2
+La Poule au Pot,Le Procope,1.264922202635908,1,2
+La Poule au Pot,Notre Dame,0.9007977493499577,1,2
+La Poule au Pot,Bontemps La Pâtisserie,0.8251294806994041,1,2
+La Poule au Pot,Boulangerie Utopie,1.429352056442005,1,2
+La Poule au Pot,Fou de Pâtisserie,0.1230113319262672,1,2
+La Poule au Pot,Cedric Grolet Café,1.833326908737016,1,2
+La Poule au Pot,Chapon et la Chocolaterie de l'Eglise,1.929679540180804,1,2
+Bistrot Paul Bert,Jardin du Luxembourg,3.249549124846159,1,2
+Bistrot Paul Bert,Montmartre,4.52823808543154,1,2
+Bistrot Paul Bert,Le Procope,3.0734079663971503,1,2
+Bistrot Paul Bert,Notre Dame,2.139911991790309,1,2
+Bistrot Paul Bert,Bontemps La Pâtisserie,1.46513696060707,1,2
+Bistrot Paul Bert,Boulangerie Utopie,1.3310228917413265,1,2
+Bistrot Paul Bert,Fou de Pâtisserie,2.1778601524613803,1,2
+Bistrot Paul Bert,Cedric Grolet Café,4.067361361234899,1,2
+Bistrot Paul Bert,Chapon et la Chocolaterie de l'Eglise,3.6789727291555843,1,2
+Bibliothèque Nationale de France - Richelieu,Louise Café,1.7381081163464573,1,1
+Bibliothèque Nationale de France - Richelieu,Chez Alain Miam Miam,1.7127019343967766,1,1
+Bibliothèque Nationale de France - Richelieu,Hôtel des Invalides,2.317338476349438,1,1
+Bibliothèque Nationale de France - Richelieu,Galerie Butte Montmartre,1.9378988624640374,1,1
+Bibliothèque Nationale de France - Richelieu,tucked friperie,2.1818810344058335,1,1
+Bibliothèque Nationale de France - Richelieu,Chinemachine,1.9957557163005073,1,1
+Bibliothèque Nationale de France - Richelieu,Shakespeare and Company,1.8846523286474361,1,1
+Bibliothèque Nationale de France - Richelieu,Palace of Versailles,17.463505941099676,1,1
+Bibliothèque Nationale de France - Richelieu,Le Train Bleu,3.7719829828315388,1,1
+Bibliothèque Nationale de France - Richelieu,La Poule au Pot,1.2450720578876486,1,1
+L'As du Fallafel,Bibliothèque Nationale de France - Richelieu,1.9780140215200914,1,1
+L'As du Fallafel,Louise Café,1.669900092088664,1,1
+L'As du Fallafel,Chez Alain Miam Miam,0.6159319577808146,1,1
+L'As du Fallafel,Hôtel des Invalides,3.3949129753263803,1,1
+L'As du Fallafel,Galerie Butte Montmartre,3.511333036645072,1,1
+L'As du Fallafel,tucked friperie,0.6782864190418901,1,1
+L'As du Fallafel,Chinemachine,3.5483516410503095,1,1
+L'As du Fallafel,Shakespeare and Company,1.0050756789115682,1,1
+L'As du Fallafel,Palace of Versailles,18.40072980802915,1,1
+L'As du Fallafel,Le Train Bleu,1.8149812329338826,1,1
+L'As du Fallafel,La Poule au Pot,0.7350857651759581,1,1
+Louise Café,Bibliothèque Nationale de France - Richelieu,1.7381081163464573,1,1
+Louise Café,L'As du Fallafel,1.669900092088664,1,1
+Louise Café,Chez Alain Miam Miam,1.986751036366257,1,1
+Louise Café,Hôtel des Invalides,1.8295048416810005,1,1
+Louise Café,Galerie Butte Montmartre,3.6759872700125906,1,1
+Louise Café,tucked friperie,2.3005716593015912,1,1
+Louise Café,Chinemachine,3.7338159460728995,1,1
+Louise Café,Shakespeare and Company,0.7330086277702677,1,1
+Louise Café,Palace of Versailles,16.73305715915965,1,1
+Louise Café,Le Train Bleu,2.8864068836883554,1,1
+Louise Café,La Poule au Pot,1.3566037311525951,1,1
+Dumbo,Bibliothèque Nationale de France - Richelieu,0.42373081188255896,1,1
+Dumbo,L'As du Fallafel,1.947618988420293,1,1
+Dumbo,Chez Alain Miam Miam,1.5619039321673565,1,1
+Dumbo,Hôtel des Invalides,2.7402434116817753,1,1
+Dumbo,Galerie Butte Montmartre,1.682290039119258,1,1
+Dumbo,tucked friperie,2.016630472945705,1,1
+Dumbo,Chinemachine,1.7331903865625724,1,1
+Dumbo,Shakespeare and Company,2.066804856108653,1,1
+Dumbo,Palace of Versailles,17.872775250511786,1,1
+Dumbo,Le Train Bleu,3.7625887760369094,1,1
+Dumbo,La Poule au Pot,1.256525949684734,1,1
+Chez Alain Miam Miam,Bibliothèque Nationale de France - Richelieu,1.7127019343967766,1,1
+Chez Alain Miam Miam,L'As du Fallafel,0.6159319577808146,1,1
+Chez Alain Miam Miam,Dumbo,1.5619039321673565,1,1
+Chez Alain Miam Miam,Hôtel des Invalides,3.52910601267949,1,1
+Chez Alain Miam Miam,Galerie Butte Montmartre,2.994603427083071,1,1
+Chez Alain Miam Miam,tucked friperie,0.46953935910658484,1,1
+Chez Alain Miam Miam,Chinemachine,3.0258298019952736,1,1
+Chez Alain Miam Miam,Shakespeare and Company,1.4547683627090031,1,1
+Chez Alain Miam Miam,Palace of Versailles,18.670169344584107,1,1
+Chez Alain Miam Miam,Le Train Bleu,2.298021009060865,1,1
+Chez Alain Miam Miam,La Poule au Pot,0.6791734645646406,1,1
+Le Bistro Marbeuf,Bibliothèque Nationale de France - Richelieu,2.6026952834206676,1,1
+Le Bistro Marbeuf,L'As du Fallafel,4.244761604089088,1,1
+Le Bistro Marbeuf,Dumbo,2.959300552460772,1,1
+Le Bistro Marbeuf,Hôtel des Invalides,1.3529599343303726,1,1
+Le Bistro Marbeuf,Galerie Butte Montmartre,3.432951328663604,1,1
+Le Bistro Marbeuf,tucked friperie,4.656457032266769,1,1
+Le Bistro Marbeuf,Chinemachine,3.4960423034897596,1,1
+Le Bistro Marbeuf,Shakespeare and Company,3.595111307971586,1,1
+Le Bistro Marbeuf,Palace of Versailles,15.043052124847819,1,1
+Le Bistro Marbeuf,Le Train Bleu,5.789944479241543,1,1
+Le Bistro Marbeuf,La Poule au Pot,3.573995909685536,1,1
+Hôtel des Invalides,Bibliothèque Nationale de France - Richelieu,2.317338476349438,1,1
+Hôtel des Invalides,L'As du Fallafel,3.3949129753263803,1,1
+Hôtel des Invalides,Dumbo,2.7402434116817753,1,1
+Hôtel des Invalides,Le Bistro Marbeuf,1.3529599343303726,1,1
+Hôtel des Invalides,Galerie Butte Montmartre,3.8344803570964823,1,1
+Hôtel des Invalides,tucked friperie,3.937103049505976,1,1
+Hôtel des Invalides,Chinemachine,3.9009879939422007,1,1
+Hôtel des Invalides,Shakespeare and Company,2.5558121730597416,1,1
+Hôtel des Invalides,Palace of Versailles,15.197875461315189,1,1
+Hôtel des Invalides,Le Train Bleu,4.706001345894399,1,1
+Hôtel des Invalides,La Poule au Pot,2.8515162703050714,1,1
+The Basilica of the Sacred Heart of Paris,Bibliothèque Nationale de France - Richelieu,2.0405475091332685,1,1
+The Basilica of the Sacred Heart of Paris,L'As du Fallafel,3.5012507321608934,1,1
+The Basilica of the Sacred Heart of Paris,Dumbo,1.7457756643945657,1,1
+The Basilica of the Sacred Heart of Paris,Le Bistro Marbeuf,3.6603618151089488,1,1
+The Basilica of the Sacred Heart of Paris,Galerie Butte Montmartre,0.23965421903432996,1,1
+The Basilica of the Sacred Heart of Paris,tucked friperie,3.3123153063590145,1,1
+The Basilica of the Sacred Heart of Paris,Chinemachine,0.19139899023282422,1,1
+The Basilica of the Sacred Heart of Paris,Shakespeare and Company,3.802461461655701,1,1
+The Basilica of the Sacred Heart of Paris,Palace of Versailles,18.662839559732785,1,1
+The Basilica of the Sacred Heart of Paris,Le Train Bleu,5.258562843514592,1,1
+The Basilica of the Sacred Heart of Paris,La Poule au Pot,2.915530585769705,1,1
+Galerie Butte Montmartre,Bibliothèque Nationale de France - Richelieu,1.9378988624640374,1,1
+Galerie Butte Montmartre,L'As du Fallafel,3.511333036645072,1,1
+Galerie Butte Montmartre,Dumbo,1.682290039119258,1,1
+Galerie Butte Montmartre,Le Bistro Marbeuf,3.432951328663604,1,1
+Galerie Butte Montmartre,The Basilica of the Sacred Heart of Paris,0.23965421903432996,1,1
+Galerie Butte Montmartre,tucked friperie,3.368009519065042,1,1
+Galerie Butte Montmartre,Chinemachine,0.06654019952433186,1,1
+Galerie Butte Montmartre,Shakespeare and Company,3.7490354881875216,1,1
+Galerie Butte Montmartre,Palace of Versailles,18.42697142732288,1,1
+Galerie Butte Montmartre,Le Train Bleu,5.29112148326887,1,1
+Galerie Butte Montmartre,La Poule au Pot,2.8939420226533423,1,1
+Boutique of the French Comedie,Bibliothèque Nationale de France - Richelieu,0.6082543518651844,1,1
+Boutique of the French Comedie,L'As du Fallafel,1.9876098932456747,1,1
+Boutique of the French Comedie,Dumbo,1.0194157984836396,1,1
+Boutique of the French Comedie,Le Bistro Marbeuf,2.291969965529205,1,1
+Boutique of the French Comedie,The Basilica of the Sacred Heart of Paris,2.6103846676298623,1,1
+Boutique of the French Comedie,tucked friperie,2.3645011828756086,1,1
+Boutique of the French Comedie,Chinemachine,2.5466456527751045,1,1
+Boutique of the French Comedie,Shakespeare and Company,1.5847282542947871,1,1
+Boutique of the French Comedie,Palace of Versailles,16.95895159623495,1,1
+Boutique of the French Comedie,Le Train Bleu,3.675661466703712,1,1
+Boutique of the French Comedie,La Poule au Pot,1.287541780114911,1,1
+tucked friperie,Bibliothèque Nationale de France - Richelieu,2.1818810344058335,1,1
+tucked friperie,L'As du Fallafel,0.6782864190418901,1,1
+tucked friperie,Dumbo,2.016630472945705,1,1
+tucked friperie,Le Bistro Marbeuf,4.656457032266769,1,1
+tucked friperie,The Basilica of the Sacred Heart of Paris,3.3123153063590145,1,1
+tucked friperie,Boutique of the French Comedie,2.3645011828756086,1,1
+tucked friperie,Chinemachine,3.39380618916512,1,1
+tucked friperie,Shakespeare and Company,1.6747042541334523,1,1
+tucked friperie,Palace of Versailles,19.02819918855048,1,1
+tucked friperie,Le Train Bleu,1.9788625843576333,1,1
+tucked friperie,La Poule au Pot,1.0973071630898512,1,1
+Untucked friperie,Bibliothèque Nationale de France - Richelieu,2.588198598526759,1,1
+Untucked friperie,L'As du Fallafel,0.8123939687687425,1,1
+Untucked friperie,Dumbo,2.4474991134809945,1,1
+Untucked friperie,Le Bistro Marbeuf,5.002285633557052,1,1
+Untucked friperie,The Basilica of the Sacred Heart of Paris,3.74899823133337,1,1
+Untucked friperie,Boutique of the French Comedie,2.7167320850575383,1,1
+Untucked friperie,Chinemachine,3.833789726295572,1,1
+Untucked friperie,Shakespeare and Company,1.7866507924669135,1,1
+Untucked friperie,Palace of Versailles,19.20036162765712,1,1
+Untucked friperie,Le Train Bleu,1.5840022063442096,1,1
+Untucked friperie,La Poule au Pot,1.4294330663182127,1,1
+Chinemachine,Bibliothèque Nationale de France - Richelieu,1.9957557163005073,1,1
+Chinemachine,L'As du Fallafel,3.5483516410503095,1,1
+Chinemachine,Dumbo,1.7331903865625724,1,1
+Chinemachine,Le Bistro Marbeuf,3.4960423034897596,1,1
+Chinemachine,The Basilica of the Sacred Heart of Paris,0.19139899023282422,1,1
+Chinemachine,Boutique of the French Comedie,2.5466456527751045,1,1
+Chinemachine,Untucked friperie,3.833789726295572,1,1
+Chinemachine,Shakespeare and Company,3.7993701341267916,1,1
+Chinemachine,Palace of Versailles,18.486042611851225,1,1
+Chinemachine,Le Train Bleu,5.323318058890006,1,1
+Chinemachine,La Poule au Pot,2.9376170161784403,1,1
+Shakespeare and Company,Bibliothèque Nationale de France - Richelieu,1.8846523286474361,1,1
+Shakespeare and Company,L'As du Fallafel,1.0050756789115682,1,1
+Shakespeare and Company,Dumbo,2.066804856108653,1,1
+Shakespeare and Company,Le Bistro Marbeuf,3.595111307971586,1,1
+Shakespeare and Company,The Basilica of the Sacred Heart of Paris,3.802461461655701,1,1
+Shakespeare and Company,Boutique of the French Comedie,1.5847282542947871,1,1
+Shakespeare and Company,Untucked friperie,1.7866507924669135,1,1
+Shakespeare and Company,Palace of Versailles,17.414697695920086,1,1
+Shakespeare and Company,Le Train Bleu,2.1949198724542414,1,1
+Shakespeare and Company,La Poule au Pot,0.9788073788268518,1,1
+Café Kitsuné Louvre,Bibliothèque Nationale de France - Richelieu,0.5776107235644176,1,1
+Café Kitsuné Louvre,L'As du Fallafel,1.764252281493736,1,1
+Café Kitsuné Louvre,Dumbo,0.9423893574564824,1,1
+Café Kitsuné Louvre,Le Bistro Marbeuf,2.5172848603048004,1,1
+Café Kitsuné Louvre,The Basilica of the Sacred Heart of Paris,2.6180113645457364,1,1
+Café Kitsuné Louvre,Boutique of the French Comedie,0.2263826538228887,1,1
+Café Kitsuné Louvre,Untucked friperie,2.490349437765061,1,1
+Café Kitsuné Louvre,Palace of Versailles,17.140444729968937,1,1
+Café Kitsuné Louvre,Le Train Bleu,3.468404201187447,1,1
+Café Kitsuné Louvre,La Poule au Pot,1.0611854907490197,1,1
+Palace of Versailles,Bibliothèque Nationale de France - Richelieu,17.463505941099676,1,1
+Palace of Versailles,L'As du Fallafel,18.40072980802915,1,1
+Palace of Versailles,Dumbo,17.872775250511786,1,1
+Palace of Versailles,Le Bistro Marbeuf,15.043052124847819,1,1
+Palace of Versailles,The Basilica of the Sacred Heart of Paris,18.662839559732785,1,1
+Palace of Versailles,Boutique of the French Comedie,16.95895159623495,1,1
+Palace of Versailles,Untucked friperie,19.20036162765712,1,1
+Palace of Versailles,Café Kitsuné Louvre,17.140444729968937,1,1
+Palace of Versailles,Le Train Bleu,19.06763037954725,1,1
+Palace of Versailles,La Poule au Pot,17.994553940992674,1,1
+BO&MIE,Bibliothèque Nationale de France - Richelieu,1.192387693420252,1,1
+BO&MIE,L'As du Fallafel,0.7945649838020665,1,1
+BO&MIE,Dumbo,1.22417372146101,1,1
+BO&MIE,Le Bistro Marbeuf,3.502158925019262,1,1
+BO&MIE,The Basilica of the Sacred Heart of Paris,2.9019230460776155,1,1
+BO&MIE,Boutique of the French Comedie,1.2170355706206273,1,1
+BO&MIE,Untucked friperie,1.5006662256294194,1,1
+BO&MIE,Café Kitsuné Louvre,0.9907733858322912,1,1
+BO&MIE,Le Train Bleu,2.5800746985831844,1,1
+BO&MIE,La Poule au Pot,0.07315381099060397,1,1
+Le Train Bleu,Bibliothèque Nationale de France - Richelieu,3.7719829828315388,1,1
+Le Train Bleu,L'As du Fallafel,1.8149812329338826,1,1
+Le Train Bleu,Dumbo,3.7625887760369094,1,1
+Le Train Bleu,Le Bistro Marbeuf,5.789944479241543,1,1
+Le Train Bleu,The Basilica of the Sacred Heart of Paris,5.258562843514592,1,1
+Le Train Bleu,Boutique of the French Comedie,3.675661466703712,1,1
+Le Train Bleu,Untucked friperie,1.5840022063442096,1,1
+Le Train Bleu,Café Kitsuné Louvre,3.468404201187447,1,1
+Le Train Bleu,BO&MIE,2.5800746985831844,1,1
+Le Train Bleu,La Poule au Pot,2.5308458011549937,1,1
+Plaza Athénée,Bibliothèque Nationale de France - Richelieu,2.5399957279524568,1,1
+Plaza Athénée,L'As du Fallafel,4.146011593618366,1,1
+Plaza Athénée,Dumbo,2.906246619958965,1,1
+Plaza Athénée,Le Bistro Marbeuf,0.13309626464664856,1,1
+Plaza Athénée,The Basilica of the Sacred Heart of Paris,3.6707439935161705,1,1
+Plaza Athénée,Boutique of the French Comedie,2.2056789018134326,1,1
+Plaza Athénée,Untucked friperie,4.909320723263764,1,1
+Plaza Athénée,Café Kitsuné Louvre,2.4298488378556886,1,1
+Plaza Athénée,BO&MIE,3.4105289930384775,1,1
+Plaza Athénée,La Poule au Pot,3.4827210493921297,1,1
+La Poule au Pot,Bibliothèque Nationale de France - Richelieu,1.2450720578876486,1,1
+La Poule au Pot,L'As du Fallafel,0.7350857651759581,1,1
+La Poule au Pot,Dumbo,1.256525949684734,1,1
+La Poule au Pot,Le Bistro Marbeuf,3.573995909685536,1,1
+La Poule au Pot,The Basilica of the Sacred Heart of Paris,2.915530585769705,1,1
+La Poule au Pot,Boutique of the French Comedie,1.287541780114911,1,1
+La Poule au Pot,Untucked friperie,1.4294330663182127,1,1
+La Poule au Pot,Café Kitsuné Louvre,1.0611854907490197,1,1
+La Poule au Pot,BO&MIE,0.07315381099060397,1,1
+La Poule au Pot,Plaza Athénée,3.4827210493921297,1,1
+Bistrot Paul Bert,Bibliothèque Nationale de France - Richelieu,3.4426809700298366,1,1
+Bistrot Paul Bert,L'As du Fallafel,1.5721959717181546,1,1
+Bistrot Paul Bert,Dumbo,3.30136680176422,1,1
+Bistrot Paul Bert,Le Bistro Marbeuf,5.815421267858053,1,1
+Bistrot Paul Bert,The Basilica of the Sacred Heart of Paris,4.52823808543154,1,1
+Bistrot Paul Bert,Boutique of the French Comedie,3.544159629053918,1,1
+Bistrot Paul Bert,Untucked friperie,0.8562031964267076,1,1
+Bistrot Paul Bert,Café Kitsuné Louvre,3.318381386945758,1,1
+Bistrot Paul Bert,BO&MIE,2.3287028241038343,1,1
+Bistrot Paul Bert,Plaza Athénée,5.7176780032236945,1,1
